@@ -1,0 +1,31 @@
+name: RSS Feed Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Rulează zilnic la ora 00:00 UTC
+
+jobs:
+  update_rss_feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 # sau orice alte dependențe necesare
+      - name: Run the script
+        run: python RSS_Scraper.py
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -f path_to_your_generated_rss.xml
+          git commit -m "Update RSS Feed" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: 'main'
