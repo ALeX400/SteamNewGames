@@ -16,7 +16,7 @@ jobs:
           python-version: '3.x'
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 # sau orice alte dependențe necesare
+          pip install requests beautifulsoup4 lxml
       - name: Run the script
         run: python RSS_Scraper.py
       - name: Commit files
