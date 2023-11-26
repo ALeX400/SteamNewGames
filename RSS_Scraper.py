@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import xml.etree.ElementTree as ET
-import xml.dom.minidom
+from lxml import etree
 
 def get_game_description(game_url):
     try:
@@ -47,29 +46,27 @@ def scrape_steam_new_releases(url):
     return games_data
 
 def generate_rss_feed(games_data):
-    ET.register_namespace('atom', 'http://www.w3.org/2005/Atom')
-    ET.register_namespace('content', 'http://purl.org/rss/1.0/modules/content/')
-
-    rss = ET.Element('rss', xmlns_atom="http://www.w3.org/2005/Atom", xmlns_content="http://purl.org/rss/1.0/modules/content/", version="2.0")
-    channel = ET.SubElement(rss, 'channel')
+    rss = etree.Element('rss', version="2.0", nsmap={'atom': "http://www.w3.org/2005/Atom", 'content': "http://purl.org/rss/1.0/modules/content/"})
+    channel = etree.SubElement(rss, 'channel')
 
     for game_title, game_link, game_description, game_image in games_data:
-        item = ET.SubElement(channel, 'item')
-        title_element = ET.SubElement(item, 'title')
+        item = etree.SubElement(channel, 'item')
+        title_element = etree.SubElement(item, 'title')
         title_element.text = game_title
-        link_element = ET.SubElement(item, 'link')
+        link_element = etree.SubElement(item, 'link')
         link_element.text = game_link
-        description_element = ET.SubElement(item, 'description')
+        description_element = etree.SubElement(item, 'description')
+        
         if game_image:
-            description_with_html = f'<![CDATA[<img src="{game_image}" /><br/>{game_description}]]>'
+            description_with_html = f'<img src="{game_image}" /><br/>{game_description}'
         else:
-            description_with_html = f'<![CDATA[{game_description}]]>'
-        description_element.text = description_with_html
+            description_with_html = game_description
+        
+        description_element.text = etree.CDATA(description_with_html)
 
-    rough_string = ET.tostring(rss, 'utf-8')
-    reparsed = xml.dom.minidom.parseString(rough_string)
-    with open('docs/index.xml', 'w', encoding='UTF-8') as f:
-        f.write(reparsed.toprettyxml(indent="\t"))
+    with open('docs/index.xml', 'wb') as f:
+        f.write(etree.tostring(rss, pretty_print=True, xml_declaration=True, encoding='UTF-8'))
+
 
 
 url = 'https://store.steampowered.com/explore/new/'
