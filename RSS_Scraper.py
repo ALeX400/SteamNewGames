@@ -19,7 +19,13 @@ def get_game_image_url(game_url):
         if response.status_code == 200:
             soup = BeautifulSoup(response.content, 'html.parser')
             image = soup.find('img', class_='game_header_image_full')
-            return image['src'] if image else None
+            if image:
+                # Elimină parametrii de query de după '.jpg'
+                image_url = image['src']
+                jpg_end_index = image_url.find('.jpg') + 4  # '+ 4' pentru a include '.jpg'
+                return image_url[:jpg_end_index] if jpg_end_index > 4 else None
+            else:
+                return None
     except Exception as e:
         return None
 
@@ -42,13 +48,13 @@ def scrape_steam_new_releases(url):
     return games_data
 
 def generate_rss_feed(games_data):
-    rss = ET.Element('rss', version='2.0')
+    ET.register_namespace('atom', 'http://www.w3.org/2005/Atom')
+    ET.register_namespace('content', 'http://purl.org/rss/1.0/modules/content/')
+
+    rss = ET.Element('rss', xmlns_atom="http://www.w3.org/2005/Atom", xmlns_content="http://purl.org/rss/1.0/modules/content/", version="2.0")
     channel = ET.SubElement(rss, 'channel')
 
-    title = ET.SubElement(channel, 'title')
-    title.text = 'Steam New Releases'
-    description = ET.SubElement(channel, 'description')
-    description.text = 'Latest game releases on Steam'
+    # Adăugarea elementelor suplimentare (titlu, link, etc.) dacă este necesar
 
     for game_title, game_link, game_description, game_image in games_data:
         item = ET.SubElement(channel, 'item')
@@ -57,15 +63,11 @@ def generate_rss_feed(games_data):
         link_element = ET.SubElement(item, 'link')
         link_element.text = game_link
         description_element = ET.SubElement(item, 'description')
-        description_element.text = game_description
-
-        if game_image:
-            image_element = ET.SubElement(item, 'enclosure')
-            image_element.set('url', game_image)
-            image_element.set('type', 'image/jpeg')  # Asumând că imaginile sunt în format JPEG
+        description_with_image = f'<![CDATA[<img src="{game_image}" /><br/>{game_description}]]>' if game_image else f'<![CDATA[{game_description}]]'
+        description_element.text = description_with_image
 
     tree = ET.ElementTree(rss)
-    tree.write('docs/index.xml', encoding='utf-8', xml_declaration=True)
+    tree.write('docs/index.xml', encoding='UTF-8', xml_declaration=True)
 
 # URL-ul paginii cu noile lansări Steam
 url = 'https://store.steampowered.com/explore/new/'
