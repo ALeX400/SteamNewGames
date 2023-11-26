@@ -3,6 +3,7 @@ name: RSS Feed Update
 on:
   schedule:
     - cron: '0 0 * * *'  # Rulează zilnic la ora 00:00 UTC
+  workflow_dispatch:  # Permite declanșarea manuală a workflow-ului din GitHub UI
 
 jobs:
   update_rss_feed:
