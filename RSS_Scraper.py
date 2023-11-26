@@ -7,10 +7,16 @@ def get_game_description(game_url):
         response = requests.get(game_url)
         if response.status_code == 200:
             soup = BeautifulSoup(response.content, 'html.parser')
-            description = soup.find('div', class_='game_description_snippet')
-            return description.text.strip() if description else 'Nicio descriere disponibilă'
+            description = soup.find('div', id='game_area_description', class_='game_area_description')
+            if description:
+                # Adaugă un stil pentru a centra textul
+                description_html = f'<div style="text-align: center;">{description}</div>'
+                return description_html
+            else:
+                return 'Nicio descriere disponibilă'
     except Exception as e:
         return 'Eroare la extragerea descrierii: ' + str(e)
+
 
 def get_game_image_url(game_url):
     try:
@@ -66,8 +72,6 @@ def generate_rss_feed(games_data):
 
     with open('docs/index.xml', 'wb') as f:
         f.write(etree.tostring(rss, pretty_print=True, xml_declaration=True, encoding='UTF-8'))
-
-
 
 url = 'https://store.steampowered.com/explore/new/'
 games_data = scrape_steam_new_releases(url)
