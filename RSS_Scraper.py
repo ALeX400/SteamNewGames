@@ -49,7 +49,7 @@ def generate_rss_feed(games_data):
         description_element.text = game_description
 
     tree = ET.ElementTree(rss)
-    tree.write('steam_rss_feed.xml', encoding='utf-8', xml_declaration=True)
+    tree.write('docs/index.xml', encoding='utf-8', xml_declaration=True)
 
 # URL-ul paginii cu noile lansări Steam
 url = 'https://store.steampowered.com/explore/new/'
