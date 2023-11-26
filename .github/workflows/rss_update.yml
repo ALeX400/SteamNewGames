@@ -23,7 +23,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -f steam_rss_feed.xml
+          git add -f docs/index.xml  # Modificat pentru a include fișierul din directorul 'docs'
           git commit -m "Update RSS Feed" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
