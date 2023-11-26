@@ -7,7 +7,7 @@
     <h1>RSS Feed</h1>
     <div id="rss-content">Se încarcă feed-ul...</div>
     <script>
-        fetch('https://github.com/ALeX400/SteamNewGames/blob/main/steam_rss_feed.xml')
+        fetch('https://raw.githubusercontent.com/ALeX400/SteamNewGames/main/steam_rss_feed.xml')
             .then(response => response.text())
             .then(data => {
                 document.getElementById('rss-content').textContent = data;
