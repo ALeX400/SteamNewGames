@@ -1,365 +1,758 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-  <channel>
-    <item>
-      <title>An Arcade Full of Cats</title>
-      <link>https://store.steampowered.com/app/2368470/An_Arcade_Full_of_Cats/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2368470/header.jpg" /><br/>Journey through gaming history's time and space, while searching for adorable feline companions in 'An Arcade Full of Cats,' the ultimate pet'em up hidden object game.]]></description>
-    </item>
-    <item>
-      <title>Backpack Hero</title>
-      <link>https://store.steampowered.com/app/1970580/Backpack_Hero/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1970580/header_alt_assets_2.jpg" /><br/>The inventory management roguelike! Collect rare items, organize your backpack, and vanquish your foes!]]></description>
-    </item>
-    <item>
-      <title>Coral Island</title>
-      <link>https://store.steampowered.com/app/1158160/Coral_Island/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1158160/header_alt_assets_1.jpg" /><br/>Coral Island is a vibrant and laid-back reimagining of farm sim games. Be who you want and experience enchanting island living at your own pace—live off the land, nurture animals, build relationships with a diverse cast of townsfolk, and make the world around you a more vital and harmonious place.]]></description>
-    </item>
-    <item>
-      <title>Pirate Fighting Simulator</title>
-      <link>https://store.steampowered.com/app/2186400/Pirate_Fighting_Simulator/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2186400/header.jpg" /><br/>Pirate Fighting Simulator is a free multiplayer PVP game developed in UE5 in which you fight other players using typical pirate weaponry.]]></description>
-    </item>
-    <item>
-      <title>Vegas Infinite by PokerStars</title>
-      <link>https://store.steampowered.com/app/886250/Vegas_Infinite_by_PokerStars/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/886250/header.jpg" /><br/>PokerStars presents Vegas Infinite, a world of entertainment with no limits. Leap into VR or PC with no headset required! Take on the house at blackjack and roulette. Light up the dice at craps. Play dazzling slots and challenge real players at authentic poker. Your seat is open.]]></description>
-    </item>
-    <item>
-      <title>Gatekeeper: Infinity</title>
-      <link>https://store.steampowered.com/app/2391710/Gatekeeper_Infinity/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2391710/header.jpg" /><br/>Prologue version of the game Gatekeeper. Gatekeeper: Infinity is a fast-paced rogue-lite shooter where you'll search for the stolen Heart of the Universe and battle machine enemies! Play solo or join forces with friends in co-op mode.]]></description>
-    </item>
-    <item>
-      <title>Call of Duty®: Modern Warfare® III</title>
-      <link>https://store.steampowered.com/app/2519060/Call_of_Duty_Modern_Warfare_III/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2519060/header.jpg" /><br/>In the direct sequel to the record-breaking Call of Duty®: Modern Warfare® II, Captain Price and Task Force 141 face off against the ultimate threat.]]></description>
-    </item>
-    <item>
-      <title>Call of Duty®: Modern Warfare® III</title>
-      <link>https://store.steampowered.com/app/2519060/Call_of_Duty_Modern_Warfare_III/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2519060/header.jpg" /><br/>In the direct sequel to the record-breaking Call of Duty®: Modern Warfare® II, Captain Price and Task Force 141 face off against the ultimate threat.]]></description>
-    </item>
-    <item>
-      <title>I Wanna Maker</title>
-      <link>https://store.steampowered.com/app/1114940/I_Wanna_Maker/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1114940/header.jpg" /><br/>I Wanna Maker is a precision platformer with a robust level editor and online level sharing, based on I Wanna Be The Guy fangames. Create complex levels using a variety of objects, a powerful events system, and customizable visuals. Browse levels online, take on challenge modes, and more!]]></description>
-    </item>
-    <item>
-      <title>Risk of Rain Returns</title>
-      <link>https://store.steampowered.com/app/1337520/Risk_of_Rain_Returns/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/header.jpg" /><br/>Carefully designed, beautifully remastered, and loaded with new ways to play—Risk of Rain is back and better than ever! Dive into the iconic roguelike full of unique loot combinations, enhanced with new Survivors, overhauled multiplayer, fan favorite content from Risk of Rain 2, and more!]]></description>
-    </item>
-    <item>
-      <title>Roboquest</title>
-      <link>https://store.steampowered.com/app/692890/Roboquest/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/692890/header.jpg" /><br/>Roboquest is a fast FPS Roguelite in a scorched futureworld. You're a rebooted Guardian, ready to kick some metal ass! Fight with your buddy or by yourself and annihilate hordes of deadly bots in ever-changing environments.]]></description>
-    </item>
-    <item>
-      <title>Watermelon Game</title>
-      <link>https://store.steampowered.com/app/2658820/Watermelon_Game/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2658820/header.jpg" /><br/>A Casual Physics Puzzle game, where you have to combine matching Fruits to get Points and increase your Highscore.]]></description>
-    </item>
-    <item>
-      <title>Football Manager 2024</title>
-      <link>https://store.steampowered.com/app/2252570/Football_Manager_2024/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2252570/header.jpg" /><br/>Build a world-class team ready to dominate your rivals in football’s most prestigious competitions. Progress never stops when you’re pursuing footballing greatness.]]></description>
-    </item>
-    <item>
-      <title>Cards and Castles 2</title>
-      <link>https://store.steampowered.com/app/1719390/Cards_and_Castles_2/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1719390/header.jpg" /><br/>Collectible cards spring to life in this wacky Tactical CCG. Assemble a deck to challenge your friends and rivals, and engage in glorious CARD BATTLES! Will you choose fearsome dragons, or the deadly squirrels?]]></description>
-    </item>
-    <item>
-      <title>RoboCop: Rogue City</title>
-      <link>https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1681430/header.jpg" /><br/>Become the legendary part man, part machine, all cop hero and deliver justice in Old Detroit.]]></description>
-    </item>
-    <item>
-      <title>STAR OCEAN THE SECOND STORY R</title>
-      <link>https://store.steampowered.com/app/2238900/STAR_OCEAN_THE_SECOND_STORY_R/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2238900/header.jpg" /><br/>In this science fantasy RPG, choose between Claude or Rena, play through their perspectives, and unlock various endings. Recruit allies and defeat foes in fast paced real-time battles.]]></description>
-    </item>
-    <item>
-      <title>The Talos Principle 2</title>
-      <link>https://store.steampowered.com/app/835960/The_Talos_Principle_2/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/835960/header.jpg" /><br/>The Talos Principle 2 is a thought-provoking first-person puzzle experience that greatly expands on the first game's philosophical themes and stunning environments with increasingly mind-bending challenges.]]></description>
-    </item>
-    <item>
-      <title>My Time at Sandrock</title>
-      <link>https://store.steampowered.com/app/1084600/My_Time_at_Sandrock/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/header.jpg" /><br/>Travel to the desert community of Sandrock and take on the role of a fledgling Builder. Use your trusty toolset to gather resources, construct machines, and turn your run-down workshop into a well-oiled production facility to save the town from the jaws of economic ruin!]]></description>
-    </item>
-    <item>
-      <title>Planet S</title>
-      <link>https://store.steampowered.com/app/1948430/Planet_S/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1948430/header.jpg" /><br/>Planet S is a real-time strategy game where your goal is to colonize multiple planets in a solar system to advance your civilization, build a city and supply it to grow your faction.]]></description>
-    </item>
-    <item>
-      <title>Slay the Princess</title>
-      <link>https://store.steampowered.com/app/1989270/Slay_the_Princess/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1989270/header.jpg" /><br/>You're here to slay the princess. Don't believe her lies.]]></description>
-    </item>
-    <item>
-      <title>TELEFORUM</title>
-      <link>https://store.steampowered.com/app/2186570/TELEFORUM/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2186570/header.jpg" /><br/>TELEFORUM is a found-footage-styled horror game exploring the unknown side of media. You’re visiting a widow’s apartment to conduct an interview about her husband's death. But that’s not the main reason why you’re here. It’s all about the tape, isn’t it?]]></description>
-    </item>
-    <item>
-      <title>Infection Free Zone – Prologue</title>
-      <link>https://store.steampowered.com/app/2485640/Infection_Free_Zone__Prologue/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2485640/header.jpg" /><br/>Experience the first 8 days of the Zone in the Prologue to the widely anticipated post-apocalyptic city-builder game. Lead the survivors, rebuild the city, and fight against the deadly hordes of the infected. Play on 6 different real cities from around the world.]]></description>
-    </item>
-    <item>
-      <title>Diablo® IV</title>
-      <link>https://store.steampowered.com/app/2344520/Diablo_IV/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2344520/header.jpg" /><br/>Join the fight for Sanctuary in Diablo IV, the ultimate action RPG adventure. Experience the critically acclaimed campaign and new seasonal content.]]></description>
-    </item>
-    <item>
-      <title>Wizard with a Gun</title>
-      <link>https://store.steampowered.com/app/1150530/Wizard_with_a_Gun/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1150530/header.jpg" /><br/>Wizard with a Gun is an online sandbox survival game for 1 - 2 players set in a magical wilderness wrought with dangerous creatures and arcane mysteries. Embark on a journey alone or with a friend to collect, craft, and outfit your wizard however you see fit as you explore the unknown.]]></description>
-    </item>
-    <item>
-      <title>Lords of the Fallen</title>
-      <link>https://store.steampowered.com/app/1501750/Lords_of_the_Fallen/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1501750/header.jpg" /><br/>A vast world awaits in all-new, dark fantasy action-RPG, Lords of the Fallen. As one of the fabled Dark Crusaders, embark on an epic quest to overthrow Adyr, the demon God.]]></description>
-    </item>
-    <item>
-      <title>Tony Hawk's™ Pro Skater™ 1 + 2</title>
-      <link>https://store.steampowered.com/app/2395210/Tony_Hawks_Pro_Skater_1__2/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2395210/header.jpg" /><br/>Play the fully-remastered Tony Hawk’s™ Pro Skater™ & Tony Hawk’s™ Pro Skater™ 2 games in one epic collection, rebuilt from the ground up in incredible HD.]]></description>
-    </item>
-    <item>
-      <title>COCOON</title>
-      <link>https://store.steampowered.com/app/1497440/COCOON/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1497440/header.jpg" /><br/>From Jeppe Carlsen, the lead gameplay designer of LIMBO and INSIDE — COCOON takes you on an adventure across worlds within worlds. Master world-leaping mechanics and solve intricate puzzles to unravel a cosmic mystery.]]></description>
-    </item>
-    <item>
-      <title>Moonring</title>
-      <link>https://store.steampowered.com/app/2373630/Moonring/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2373630/header.jpg" /><br/>A dark-fantasy, turn-based, retro-fusion of classic turn-based RPGs and roguelikes, all presented with a unique neon aesthetic.]]></description>
-    </item>
-    <item>
-      <title>Train Sim World® 4</title>
-      <link>https://store.steampowered.com/app/2362300/Train_Sim_World_4/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2362300/header_alt_assets_0.jpg" /><br/>Feel the power of simulation in your hands. Experience immense velocity and express unrivalled creativity with Train Sim World 4! Expand your rail hobby and discover the raw emotion of driving a diverse array of iconic routes and trains. From training center to mountain pass, this is your journey.]]></description>
-    </item>
-    <item>
-      <title>WitchSpring R</title>
-      <link>https://store.steampowered.com/app/1958220/WitchSpring_R/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1958220/header.jpg" /><br/>WitchSpring R is a story-driven RPG combining elements of collecting, simulation, and battling. Experience the joy of training a young witch and accompany her on a grand adventure!]]></description>
-    </item>
-    <item>
-      <title>Cyberpunk 2077: Phantom Liberty</title>
-      <link>https://store.steampowered.com/app/2138330/Cyberpunk_2077_Phantom_Liberty/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2138330/header_alt_assets_1.jpg" /><br/>Nicio descriere disponibilă]]></description>
-    </item>
-    <item>
-      <title>Demonologist</title>
-      <link>https://store.steampowered.com/app/1929610/Demonologist/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/header.jpg" /><br/>Demonologist is a Co-Op horror game that can be played with at least 1 and up to 4 players. Your goal is to identify the type of evil spirit in cursed places and exorcise it using your equipment, either alone or with your team.]]></description>
-    </item>
-    <item>
-      <title>Farlight 84</title>
-      <link>https://store.steampowered.com/app/1928420/Farlight_84/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1928420/header.jpg" /><br/>Fast-Paced Hero shooter Battle Royale. Multi-platform interoperable. With flexible jetpacks, diverse hero skills, armed vehicles, a special in-game growth system and multiple revives, Farlight 84 brings you quicker battles with more compact mayhem and rampage! Your Farlight, Your Highlight!]]></description>
-    </item>
-    <item>
-      <title>Moonstone Island</title>
-      <link>https://store.steampowered.com/app/1658150/Moonstone_Island/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1658150/header.jpg" /><br/>Moonstone Island is a creature-collecting life-sim set in an open world with 100 islands to explore. Make friends, brew potions, collect Spirits, and test your strength in card-based encounters to complete your Alchemy training!]]></description>
-    </item>
-    <item>
-      <title>Party Animals</title>
-      <link>https://store.steampowered.com/app/1260320/Party_Animals/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1260320/header.jpg" /><br/>Fight your friends as puppies, kittens and other fuzzy creatures in PARTY ANIMALS! Paw it out with your friends remotely, or huddle together for chaotic fun on the same screen. Interact with the world under our realistic physics engine. Did I mention PUPPIES?]]></description>
-    </item>
-    <item>
-      <title>Lies of P</title>
-      <link>https://store.steampowered.com/app/1627720/Lies_of_P/?snr=1_239_new__145</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1627720/header.jpg" /><br/>Lies of P is a thrilling soulslike that takes the story of Pinocchio, turns it on its head, and sets it against the darkly elegant backdrop of the Belle Epoque era.]]></description>
-    </item>
-    <item>
-      <title>SKD</title>
-      <link>https://store.steampowered.com/app/885530/SKD/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/885530/header.jpg" /><br/>Crazy 2d-soulslike with stylish characters and sick combat in a furry anime world.]]></description>
-    </item>
-    <item>
-      <title>Electoral Dynasty</title>
-      <link>https://store.steampowered.com/app/2542840/Electoral_Dynasty/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2542840/header.jpg" /><br/>A political-simulation watch-the-clock strategy game. Pass laws, executive orders, and deal with events, all while maintaining the balance of your nation's most important attributes. Will you manage to keep your coalition together or establish a dictatorship? Only you can decide, Prime Minister.]]></description>
-    </item>
-    <item>
-      <title>Deep Blue Odyssey</title>
-      <link>https://store.steampowered.com/app/2373920/Deep_Blue_Odyssey/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2373920/header.jpg" /><br/>Deep Blue Odyssey is a thrilling submarine running game that will test your reflexes and challenge your strategic thinking.]]></description>
-    </item>
-    <item>
-      <title>Steel Thunder</title>
-      <link>https://store.steampowered.com/app/2372300/Steel_Thunder/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2372300/header.jpg" /><br/>Steel Thunder is an action-packed runner where you play as a knight and race through a castle while jumping and dodging obstacles to collect coins. The game is an exciting adventure that requires quick reflexes and strategic thinking to conquer each level.]]></description>
-    </item>
-    <item>
-      <title>Chain Ninja</title>
-      <link>https://store.steampowered.com/app/2370020/Chain_Ninja/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2370020/header.jpg" /><br/>Chain Ninja is an exciting action-adventure game designed and developed by an experienced game development team. In the game, players need to play a chain ninja, traverse the entire room by hanging ropes in the air, obtain keys, and avoid various obstacles and traps in the level.]]></description>
-    </item>
-    <item>
-      <title>Eternal Roadster</title>
-      <link>https://store.steampowered.com/app/2372760/Eternal_Roadster/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2372760/header.jpg" /><br/>Eternal Roadsteris an exciting and challenging game that will test your driving skills and reflexes. In this game, you'll be controlling a high-speed race car as it speeds down a never-ending road, constantly changing direction to avoid falling off and failing the game.]]></description>
-    </item>
-    <item>
-      <title>Vertex Rush</title>
-      <link>https://store.steampowered.com/app/2367150/Vertex_Rush/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2367150/header.jpg" /><br/>Vertex Rush - A Fast-Paced Climbing Adventure!]]></description>
-    </item>
-    <item>
-      <title>Cowpocalypse</title>
-      <link>https://store.steampowered.com/app/2648600/Cowpocalypse/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2648600/header.jpg" /><br/>An arcade style game, abduct cows to increase your score!]]></description>
-    </item>
-    <item>
-      <title>Joker Show - Horror Escape</title>
-      <link>https://store.steampowered.com/app/2467790/Joker_Show__Horror_Escape/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2467790/header.jpg" /><br/>Your parents left for the night, and you stayed at home alone, you were bored and you decided to call the Jester (Joker), but something went wrong... It looks like you succeeded, now the jester wants to play with you, hide and don't let him catch you, find a way to call the jester away.]]></description>
-    </item>
-    <item>
-      <title>Obby</title>
-      <link>https://store.steampowered.com/app/2521100/Obby/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2521100/header.jpg" /><br/>run, jump, puzzle. Your tasks that you have to master in Obby with Kitty.]]></description>
-    </item>
-    <item>
-      <title>Pizza Delivery [zebaxx]</title>
-      <link>https://store.steampowered.com/app/2683610/Pizza_Delivery_zebaxx/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2683610/header.jpg" /><br/>You are a young Spanish woman who has just moved to the outskirts of Venice, and has just found a job in a newly opened pizzeria...]]></description>
-    </item>
-    <item>
-      <title>Astrominer</title>
-      <link>https://store.steampowered.com/app/2437660/Astrominer/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2437660/header.jpg" /><br/>Embark on an epic space adventure in AstroMiner, where you must build a base, overcome challenges, and construct a space ship to return home from the asteroid belt.]]></description>
-    </item>
-    <item>
-      <title>Mad Jyacer</title>
-      <link>https://store.steampowered.com/app/2690780/Mad_Jyacer/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2690780/header.jpg" /><br/>Bring healthy food to the finish line. Help your family lose weight!]]></description>
-    </item>
-    <item>
-      <title>Legend of Egypt - Jewels of the Gods</title>
-      <link>https://store.steampowered.com/app/2688930/Legend_of_Egypt__Jewels_of_the_Gods/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2688930/header.jpg" /><br/>Thabit mercilessly rules his kingdom in the land of Egypt, until one day he is struck by a heavy blow of fate. The gods Isis and Osiris take pity on the young pharaoh: by building a magnificent city that offers shelter to many contented inhabitants, Thabit can change his fate.]]></description>
-    </item>
-    <item>
-      <title>Nordland Mahjongg</title>
-      <link>https://store.steampowered.com/app/2689060/Nordland_Mahjongg/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2689060/header.jpg" /><br/>"Nordland Mahjongg" offers many hours of challenging gaming fun for both beginners and passionate Mahjongg players. Enjoy different, hand-drawn tiles sets that can be coordinated with beautiful backgrounds.]]></description>
-    </item>
-    <item>
-      <title>Jewel Legends: Tree of Life</title>
-      <link>https://store.steampowered.com/app/2672350/Jewel_Legends_Tree_of_Life/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2672350/header.jpg" /><br/>The Hods, magical beings and pure of heart, once lived in harmony with the holy Tree of Life. But the endless greed of a dark demon forced the Hods into hiding. Now, new hope springs eternal. In this Match-3 Game you have too restore the Tree of Life and rebuild the world of the Hods!]]></description>
-    </item>
-    <item>
-      <title>Big D Randy</title>
-      <link>https://store.steampowered.com/app/2679610/Big_D_Randy/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2679610/header.jpg" /><br/>Randy is not playing around.. Collect all candy's on huge map and don't get caught!]]></description>
-    </item>
-    <item>
-      <title>CyVenge</title>
-      <link>https://store.steampowered.com/app/2643090/CyVenge/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2643090/header_alt_assets_3.jpg" /><br/>CyVenge is a fast paced and action packed rougelite arena shooter. Choose from many upgradable weapons and abilities and help Cy fight against numerous waves of enemies!]]></description>
-    </item>
-    <item>
-      <title>i am a fish Online</title>
-      <link>https://store.steampowered.com/app/2654800/i_am_a_fish_Online/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2654800/header.jpg" /><br/>This is a multiplayer online RPG simulation survival game. You can chat casually, socialize and make friends, collect adventures, and obtain various achievements. Become a hero from a small fish. Fight bosses together. Keep your hunger, happiness, sleep, and unlock more fish. Like character, thanks.]]></description>
-    </item>
-    <item>
-      <title>Coffee Brakes</title>
-      <link>https://store.steampowered.com/app/2463820/Coffee_Brakes/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2463820/header.jpg" /><br/>Battle your friends in an office chair joust to the death! Only one of you can be employee of the month, so battle your friends in a variety of game modes and levels. Get on your office chairs and take your Coffee Brake! Coffee Brakes is a 3rd year project developed at Media Design School]]></description>
-    </item>
-    <item>
-      <title>Retro Commander</title>
-      <link>https://store.steampowered.com/app/338820/Retro_Commander/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/338820/header.jpg" /><br/>Retro Commander is a post-apocalyptic real-time strategy wargame (RTS).]]></description>
-    </item>
-    <item>
-      <title>NBody Gravitation</title>
-      <link>https://store.steampowered.com/app/2674040/NBody_Gravitation/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2674040/header.jpg" /><br/>Place asteroids and planets and send them orbiting into targets in a physics-based puzzle game where everything attracts everything.]]></description>
-    </item>
-    <item>
-      <title>Spooky Spins Returns : Crazy Cash Edition - Slots</title>
-      <link>https://store.steampowered.com/app/2671990/Spooky_Spins_Returns__Crazy_Cash_Edition__Slots/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2671990/header.jpg" /><br/>Spooky Spins Returns : Crazy Cash Edition is a 5 reel, 25 payline slot machine (pokie) with a Horror theme oriented from left to right. - WITH THE SIMILAR LIGHTNING STRIKE FEATURE.]]></description>
-    </item>
-    <item>
-      <title>Wonderland</title>
-      <link>https://store.steampowered.com/app/2651790/Wonderland/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2651790/header.jpg" /><br/>Dive into fear in Wonderland, a first-person horror game where you navigate an abandoned mansion, solving puzzles and uncovering mysteries. Face chilling challenges, explore haunted rooms, and decipher the mansion's dark secrets. Can you survive the terror and unveil the truth?]]></description>
-    </item>
-    <item>
-      <title>Wacky Escape</title>
-      <link>https://store.steampowered.com/app/2644120/Wacky_Escape/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2644120/header.jpg" /><br/>Stop trippin' and escape your destiny in this runner action game]]></description>
-    </item>
-    <item>
-      <title>Very Scary Backrooms Game</title>
-      <link>https://store.steampowered.com/app/2666350/Very_Scary_Backrooms_Game/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2666350/header.jpg" /><br/>You have no weapons. You have no means of defending yourself. Some will chase you, some will outsmart you. If you are in danger, run and hide.]]></description>
-    </item>
-    <item>
-      <title>Shell's Kitchen</title>
-      <link>https://store.steampowered.com/app/2603430/Shells_Kitchen/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2603430/header.jpg" /><br/>Dive into a fintastic culinary adventure where fish serve fish dishes to fishes, and scale new heights of seafood fun with your friends in this cooperative cooking game!]]></description>
-    </item>
-    <item>
-      <title>Evil Diary</title>
-      <link>https://store.steampowered.com/app/2563470/Evil_Diary/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2563470/header.jpg" /><br/>Mow down hordes of monsters to survive! Survive the onslaught of a post-apocalyptic urban wasteland]]></description>
-    </item>
-    <item>
-      <title>The Protean Forest</title>
-      <link>https://store.steampowered.com/app/2592710/The_Protean_Forest/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2592710/header.jpg" /><br/>The game "The Protean Forest" combines Rogue-Like card game and turn based mechanisms. Defeat demons by deploying and moving unit cards in the area and using skill cards at appropriate times. Uncovering the secret of The Protean Forest]]></description>
-    </item>
-    <item>
-      <title>BALL PIT KING 3D</title>
-      <link>https://store.steampowered.com/app/2684420/BALL_PIT_KING_3D/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2684420/header.jpg" /><br/>BALL PIT KING 3D is a fun and addictive puzzle game where you drop, stack and merge quirky 3D balls with hilarious faces to create bigger ones. How big can they get? Play and see if you can become the King of the Ball Pit!]]></description>
-    </item>
-    <item>
-      <title>World Of Blocks</title>
-      <link>https://store.steampowered.com/app/2650110/World_Of_Blocks/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2650110/header.jpg" /><br/>World Of Block is a sandbox game where the player has complete freedom to build their own world, using shapes, objects, and textures customized by the player.]]></description>
-    </item>
-    <item>
-      <title>True Reporter. Mystery of Mistwood</title>
-      <link>https://store.steampowered.com/app/2682300/True_Reporter_Mystery_of_Mistwood/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2682300/header.jpg" /><br/>A free detective "Hidden object" game. Solve the crime now!]]></description>
-    </item>
-    <item>
-      <title>BURGLAR'S BAZAAR</title>
-      <link>https://store.steampowered.com/app/2639690/BURGLARS_BAZAAR/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2639690/header.jpg" /><br/>"Grow your business by stealing. Sell the stolen goods in your own shop. Don't get caught by landlords. Hide, steal, and sell! Provide good service to your customers!"]]></description>
-    </item>
-    <item>
-      <title>On Call</title>
-      <link>https://store.steampowered.com/app/2547180/On_Call/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2547180/header.jpg" /><br/>On Call is a visual novel that takes you through a 3-day rotation at Merritt General Hospital. Build trust with your patients and their families to get them on the road to recovery. Manage your own stress while confronting these challenges or you may just crack under the pressure.]]></description>
-    </item>
-    <item>
-      <title>Dino Survivors</title>
-      <link>https://store.steampowered.com/app/2639840/Dino_Survivors/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2639840/header.jpg" /><br/>Face hordes of Dinosaurs and prehistoric creatures in this survival game with minimalist gameplay! Dino Survivors is a casual game with Roguelite elements, where you need to be faster and survive several species of extinct animals. Your choices will determine this.]]></description>
-    </item>
-    <item>
-      <title>Timberman: The Big Adventure</title>
-      <link>https://store.steampowered.com/app/2589910/Timberman_The_Big_Adventure/?snr=1_239_new__tab-AllNewReleases</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2589910/header.jpg" /><br/>Enter the Timberman universe! Enjoy the retro vibe of a 2D platformer with a classic 16-bit pixel art aesthetic.]]></description>
-    </item>
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<item>
+			<title>An Arcade Full of Cats</title>
+			<link>
+				https://store.steampowered.com/app/2368470/An_Arcade_Full_of_Cats/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2368470/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<a href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Frr8zmYk9VH" rel="noopener" target="_blank"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2368470/extras/devcatsbanner.png?t=1700441481"/></a><br/><a href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Frr8zmYk9VH" rel="noopener" target="_blank"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2368470/extras/devcatsdiscord.gif?t=1700441481"/></a><br/><br/>Prepare for a gaming journey with a time-traveling twist in "AN ARCADE FULL OF CATS." Join Leo and Fofiño as they navigate a feline-infused version of the arcade era, spanning from 1980 to the year 2000, all while attempting to find their way back to the present!<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2368470/extras/1985gif.gif?t=1700441481"><br/><br/>Embark on a quest to discover hidden cats in five distinct scenarios, each representing a catified rendition of classic arcades. Get ready for the ultimate pet'em up! <br/><br/>"AN ARCADE FULL OF CATS" Features...<br/><br/>Time-Traveling Fun: Explore a charmingly reimagined arcade era, from the nostalgia of 1980 to the dawn of the new millennium, as you assist Leo and Fofiño on their journey back home.<br/><br/>Hidden Cat Hunt: Search high and low for hidden feline companions across five captivating scenarios, each with its unique surprises.<br/><br/>Whisker-Worthy Arcades: Visit five classic arcades, transformed into delightful cat-themed versions!<br/><br/>Get ready to traverse time and enjoy endless hours of cat-seeking amusement in "AN ARCADE FULL OF CATS." The ultimate pet'em up and our tribute to the Arcade Era!						</img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Backpack Hero</title>
+			<link>https://store.steampowered.com/app/1970580/Backpack_Hero/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1970580/header_alt_assets_2.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<a href="https://store.steampowered.com/app/1970580/" id="dynamiclink_0" rel="" target="_blank">https://store.steampowered.com/app/1970580/</a><br/><strong>The inventory management roguelike!</strong><br/>Collect rare items, organize your backpack, and vanquish your foes!<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1970580/extras/overview_banner.gif?t=1700121780"><br/><strong>Backpack Hero is a twist on your standard deck-building roguelike. It isn't just about what you carry, but how you organize the items within your bag!</strong><br/><br/>Placement has a huge impact on your items – find the right spot in your backpack to increase their power! Explore ancient dungeons, caves, swamps, and more! Meet colorful friends and fight deadly foes! Don't get lost!<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1970580/extras/backpack_gif1.gif?t=1700121780"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1970580/extras/story_mode_banner.gif?t=1700121780"><br/><strong>When you aren't putting your life in danger, you can make good use of the resources you have gathered and rebuild your hometown of Haversack Hill!</strong><br/><br/>Turn it into a charming and efficient hamlet to attract new residents. Buy and sell items, conduct research, and unlock heroes, challenges, and quests. By organizing the perfect village, you will restore the world of Orderia and rescue the animals who live there!<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1970580/extras/town_gif3.gif?t=1700121780"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1970580/extras/features_banner.gif?t=1700121780"><br/><ul class="bb_ul"><li><strong>Experiment with your strategy</strong> and create game-breaking solutions<br/></li><li><strong>Collect 800+ distinct items</strong>, with ingenious powers and synergies to harness<br/></li><li><strong>Battle with over 100+ enemies.</strong> Learn their attack patterns and vanquish your foes<br/></li><li><strong>Dive into the endless dungeons!</strong> Start every run with randomly generated levels and discover unpredictable items, unique layouts, events, and challenges<br/></li><li><strong>Explore 5 unique play styles</strong> by selecting different heroes<br/></li><li><strong>Play standalone runs or experience the full adventure</strong> and meta progression in Story Mode<br/></li><li><strong>Rebuild Haversack Hill </strong>and help its inhabitants<br/></li><li><strong>Turn the village into an appealing and efficient hamlet</strong> to attract new residents. Buy and sell items, conduct research, and unlock heroes, challenges, and quests</li></ul><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1970580/extras/dungeon_gif2.gif?t=1700121780"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1970580/extras/extra_features_banner.gif?t=1700121780"><br/><ul class="bb_ul"><li><strong>Enrich your game with mods</strong> created by the community<br/></li><li>Enjoy the game on <strong>PC or Steam Deck</strong><br/></li><li>Play with <strong>full controller support</strong></li></ul><br/><strong><a href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fv7dJYk6gtw" rel="noopener" target="_blank">Join our community</a> and share your feedback - our developers visit every day!</strong> </img></img></img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Coral Island</title>
+			<link>https://store.steampowered.com/app/1158160/Coral_Island/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1158160/header_alt_assets_1.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/1158160/extras/ChickenSteam.gif?t=1699982807"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1158160/extras/Store_Page_-_About.png?t=1699982807"><br/><br/>It’s time to leave big-city life in Pokyo behind and start a new chapter of your life on Coral Island! <br/><br/>Be who you want and create the idyllic farm of your dreams, where you’ll tend crops, nurture animals, and build a bond with the natural world around you. Help revitalize the nearby town and its surrounding coral reefs, and forge relationships with a vibrant community of more than 70 fellow people who call Coral Island home. <br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1158160/extras/UHD_Resize.gif?t=1699982807"><br/><br/>Farm. Decorate. Craft. Explore. Relax. Your future—and the future of Coral Island—is what you make of it.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1158160/extras/Store_Page_-_Features.png?t=1699982807"><br/><br/><strong>Build Your Dream Farm</strong><br/>Transform your overrun land on Coral Island into a lush and lively dreamscape—you decide what to build, what crops to grow, and which animals you’d like to tend. <br/><br/><strong>Write your own story</strong>:  <br/>The story changes with each season, but life goes with the flow. Spend your days exploring, or build a life with someone special. Save the seas, brave the caves, or focus on your farm. It’s up to you!<br/><br/><strong>Be yourself</strong>: <br/>Choose from a wide variety of outfits, accessories, and physiques—you’ll find plenty of options to express yourself, find your style, and be whoever you want to be. <br/><br/><strong>Befriend a diverse cast of islanders</strong>: <br/>Get to know the 70+ characters from all walks of life who live on Coral Island. Converse with them, find out more about their interests, and try to impress them with just the right gift.<br/><br/><strong>Find that special someone</strong>: <br/>Meet 25 singles who are ready to mingle! Build relationships, sweep them off their feet, and find the one—and when you’re ready, embark on a new chapter of your story together at the farm.<br/><br/><strong>Restore an island once paradise</strong>: <br/>Make Coral Island a better place for everyone! Take part in community projects to liven up the town, expand the local museum, and discover how to restore heritage sites. Increase the town's rank and  your community will thrive!<br/><br/><strong>Catch of the day</strong>: <br/>Island living has a lot of perks, including being just a stone's throw away from fun activities like hunting for insects and catching fish.<br/><br/><strong>Dive the ocean &amp; mine the caverns</strong>: <br/>Go diving to restore the coral reef, or mine precious gemstones in the cavern. Whatever you decide to do, you’ll find loot to hone your tools and upgrade the quality of your livestock and crops.						</img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Pirate Fighting Simulator</title>
+			<link>
+				https://store.steampowered.com/app/2186400/Pirate_Fighting_Simulator/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2186400/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Pirate Fighting Simulator is a free multiplayer PVP game developed in Unreal Engine 5 in which you fight other players using typical pirate weaponry. There are also cosmetics that you can unlock, these cosmetics can be either hats, weapon skins or in the form of a title that sits underneath your username. The game also includes emotes so you can absolutely boogie down silly style after destroying an enemy gamer. There are also two gamemodes one being TDM (Team Death Match)) and the second being FFA (Free For All).						</div></div>]]></description>
+		</item>
+		<item>
+			<title>Vegas Infinite by PokerStars</title>
+			<link>
+				https://store.steampowered.com/app/886250/Vegas_Infinite_by_PokerStars/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/886250/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<a href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2Fpokerstarsvr" rel="noopener" target="_blank"> <img src="https://cdn.akamai.steamstatic.com/steam/apps/886250/extras/transition.gif?t=1699642767"> </img></a><br/><br/>PokerStars presents Vegas Infinite, a world of entertainment with no limits. Leap into virtual reality or sit back and play on PC with no headset required.<br/><br/>Take on the house at action-packed blackjack and roulette. Light up the dice with your friends at craps. Choose from a dazzling selection of slots, and challenge real opponents in cash, Spin &amp; Go, Sit &amp; Go, and multi-table tournament poker. <br/><br/>From luxury casino floors, private suites, and galactic space stations to soaring skylines and exclusive rooftop escapes, lose yourself in stunning environments while you play.  <br/><br/>Be yourself with a giant collection of customizable accessories and apparel, and add a touch of magic to your gameplay with an endless supply of props. <br/><br/>Your seat is open.<br/><br/><br/><br/>Access to IAP may be restricted by location<br/>Vegas Infinite VOIP is monitored by ToxMod<br/>Vegas Infinite is not a gambling product and does not present an opportunity to win real money. 18+ only. Please play responsibly.						</div></div>]]></description>
+		</item>
+		<item>
+			<title>Gatekeeper: Infinity</title>
+			<link>https://store.steampowered.com/app/2391710/Gatekeeper_Infinity/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2391710/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<a href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FHkrp6AUa5S" rel="noopener" target="_blank"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2391710/extras/Discord_banner_gatekeeper.png?t=1700646226"/></a><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2391710/extras/infinity_gif_steam_1.gif?t=1700646226"><br/><br/><a href="https://store.steampowered.com/app/2106670/Gatekeeper" id="dynamiclink_1" rel="" target="_blank">https://store.steampowered.com/app/2106670/Gatekeeper</a><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2391710/extras/Wishlist_Arrows.png?t=1700646226"><br/><br/><ul class="bb_ul"><li>Get ready to embark on an epic quest to recover the stolen Heart of the Universe on two different planets across twelve challenging locations.</li></ul><ul class="bb_ul"><li>With 4 unique and playable characters to choose from, you can customize your gameplay experience and play to your strengths. </li></ul><ul class="bb_ul"><li>Each character offers a unique set of skills that can be upgraded through 45 different upgrades to help you on your journey.</li></ul><ul class="bb_ul"><li>But beware! You will face fierce resistance from 20 different types of enemies, each with its own unique abilities and weapons that will challenge you at every turn.</li></ul><ul class="bb_ul"><li>Join forces with friends to fight against the machines in co-op mode.</li></ul><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2391710/extras/Hybrid_Infinity.gif?t=1700646226"><br/><br/>Join the battle to recover the Heart of the Universe and become the ultimate Gatekeeper!						</img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Call of Duty®: Modern Warfare® III</title>
+			<link>
+				https://store.steampowered.com/app/2519060/Call_of_Duty_Modern_Warfare_III/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2519060/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Purchase any edition and receive:<br>
+<br>
+- Available in Call of Duty®: Modern Warfare® III, Call of Duty®: Modern Warfare® II and Call of Duty®: Warzone™:<br>
+-- Soap Operator Pack*<br>
+-- Zombie Ghost Operator Skin*<br>
+<br>
+ADAPT OR DIE IN A FIGHT AGAINST THE ULTIMATE THREAT<br>
+<br>
+In the direct sequel to the record-breaking Call of Duty®: Modern Warfare® II, Captain Price and Task Force 141 face off against the ultimate threat. The ultranationalist war criminal Vladimir Makarov is extending his grasp across the world causing Task Force 141 to fight like never before.<br>
+<br>
+IT’S TIME TO SETTLE OLD SCORES AND START NEW ONES<br>
+<br>
+Modern Warfare® III celebrates the 20th anniversary of Call of Duty® with one of the greatest collections of Multiplayer maps ever assembled - both fan favorites and all new ones. All 16 launch maps from the original Modern Warfare® 2 (2009) have been modernized with new modes and gameplay features and will be available at launch to get everyone started, while over 12 all-new core 6v6 maps will fuel post-launch live seasons.<br>
+<br>
+ALL NEW OPEN WORLD ZOMBIES<br/>
+<br/>
+For the first time, team up with other squads to survive and fight massive hordes of the undead in the largest Call of Duty® Zombies map ever. Modern Warfare® Zombies (MWZ) tells a new Treyarch Zombies story with missions, core Zombies features, and secrets to discover.						</br></br></br></br></br></br></br></br></br></br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>Call of Duty®: Modern Warfare® III</title>
+			<link>
+				https://store.steampowered.com/app/2519060/Call_of_Duty_Modern_Warfare_III/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2519060/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Purchase any edition and receive:<br>
+<br>
+- Available in Call of Duty®: Modern Warfare® III, Call of Duty®: Modern Warfare® II and Call of Duty®: Warzone™:<br>
+-- Soap Operator Pack*<br>
+-- Zombie Ghost Operator Skin*<br>
+<br>
+ADAPT OR DIE IN A FIGHT AGAINST THE ULTIMATE THREAT<br>
+<br>
+In the direct sequel to the record-breaking Call of Duty®: Modern Warfare® II, Captain Price and Task Force 141 face off against the ultimate threat. The ultranationalist war criminal Vladimir Makarov is extending his grasp across the world causing Task Force 141 to fight like never before.<br>
+<br>
+IT’S TIME TO SETTLE OLD SCORES AND START NEW ONES<br>
+<br>
+Modern Warfare® III celebrates the 20th anniversary of Call of Duty® with one of the greatest collections of Multiplayer maps ever assembled - both fan favorites and all new ones. All 16 launch maps from the original Modern Warfare® 2 (2009) have been modernized with new modes and gameplay features and will be available at launch to get everyone started, while over 12 all-new core 6v6 maps will fuel post-launch live seasons.<br>
+<br>
+ALL NEW OPEN WORLD ZOMBIES<br/>
+<br/>
+For the first time, team up with other squads to survive and fight massive hordes of the undead in the largest Call of Duty® Zombies map ever. Modern Warfare® Zombies (MWZ) tells a new Treyarch Zombies story with missions, core Zombies features, and secrets to discover.						</br></br></br></br></br></br></br></br></br></br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>I Wanna Maker</title>
+			<link>https://store.steampowered.com/app/1114940/I_Wanna_Maker/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1114940/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							I Wanna Maker is a precision platformer with a robust level editor and online level sharing, based on I Wanna Be The Guy fangames.<br/><br/>Create complex levels using a wide variety of objects, a powerful events system, and customizable visuals. Browse levels online, traverse a hand-crafted campaign, take on challenge modes, and more!<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1114940/extras/Item_showcase.png?t=1699649497"><h2 class="bb_tag">Level Editor Features</h2><ul class="bb_ul"><li>Intuitive but powerful level editor with 70+ objects<br/></li><li>A flexible events system which enables endless possibilities<br/></li><li>Dozens of visuals for blocks, spikes, and backgrounds, each color-customizable<br/></li><li>150+ songs to choose from<br/></li><li>Props, lights, and particles to visually enhance your levels<br/></li><li>Add optional objectives to your levels with collectible gems</li></ul><h2 class="bb_tag">Gameplay Features</h2><ul class="bb_ul"><li>Play 240,000+ user-created levels made for a variety of skill levels<br/></li><li>Speedrun leaderboards for each level with watchable replays<br/></li><li>Campaign mode with dozens of high-quality levels<br/></li><li>Incredibly precise and responsive controls<br/></li><li>Take on challenge modes consisting of randomly chosen levels<br/></li><li>Save levels to custom playlists and share them online<br/></li><li>Follow your favorite makers so you don't miss their new levels<br/></li><li>Customize your character's appearance</li></ul><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1114940/extras/Page_break.png?t=1699649497"><h2 class="bb_tag">No monetization</h2>I Wanna Maker is free to play, with no monetization of any kind. We hope you enjoy making levels and participating in the community!						</img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Risk of Rain Returns</title>
+			<link>
+				https://store.steampowered.com/app/1337520/Risk_of_Rain_Returns/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/extras/01_risk_of_rain_is_back.gif?t=1699995226"><br/>Carefully designed, beautifully remastered, and loaded with new ways to play—Risk of Rain is back and better than ever! Dive into the iconic roguelike full of unique loot combinations, entirely new Survivors, overhauled multiplayer, and more!<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/extras/02_Before_and_after_revised.gif?t=1699995226"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/extras/03_Uncover_New_Ways_to_Play_2.gif?t=1699995226"><br/>Hone your skills and abilities, discover new Survivors, and dive into progressively stronger runs! Discover secrets of ancient design lying dormant beneath the surface of Petrichor V. Search under every log, stone, and Gup to find new ways to play!<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/extras/04_unlock_notification_popping_up.gif?t=1699995226"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/extras/05_Header_Play_solo_or_gather_your_crew.gif?t=1699995226"><br/>Many Survivors fled the mysterious attack on your ship. Slice, dice, and serve justice cold with the return of Chef, hold the front line and shield your team as Enforcer, or lay down a path of toxic sludge as everybody’s favorite purple monster: Acrid! Forge new paths to explore with 15 unique Survivors, each with new abilities to master. Two entirely new Survivors are making their debut in Risk of Rain Returns.<br/><br/>Also introducing The Drifter! This resourceful brawler gathers scrap from conquered foes and can spawn items that temporarily empower teammates. She can also take them for herself and unleash an unbridled blaze of area-wide destruction. The Drifter is the perfect addition to any group of Survivors. Her ability to support the team while laying down her own brand of hurt will prove she’s more than just a stowaway.<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/extras/06_place_holder_gif.gif?t=1699995226"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/extras/07_Play_Solo_Or_Gather_Crew_615x200.gif?t=1699995226"><br/>Drop to the surface solo or with your crew! Choose Survivors that complement each other’s strengths and weaknesses, or go wild and choose whoever has the largest guns (spoiler: it’s Loader). With up to four-player online and couch co-op, you’re not alone in this fight. <br/><br/>Risk of Rain Returns features new and improved multiplayer services to ensure the only thing that gets between your crew’s survival are the ever-growing hordes on Petrichor V.<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/extras/08_Gif_of_survivors_jumping_out_Desolate_Forest_zoomed_in.gif?t=1699995226"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/extras/09_Potent_Pick-Ups_Header.gif?t=1699995226"><br/>Fight your way to the surface while uncovering precious cargo. These items serve as your redemption, helping you move faster, deal more damage, or jump a little higher. Still others empower you in more dramatic ways—like the rare Ukulele, which empowers your attacks with electrifying music. <br/><br/>If explosions are what you’re after, hunt down the Brilliant Behemoth and watch as even your most mundane attacks erupt in a barrage of beautiful blasts. The magic comes in the unpredictable combinations you create. Exploding chain lightning is only the beginning of your frenetic masterpiece!<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/extras/10_Potent_Pick_Ups___fireboots_2.gif?t=1699995226"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/extras/11_Header_The_Dangers_of_Petrichor_V.gif?t=1699995226"><br/>The denizens of Petrichor V are as diverse as the many planets they once called home. As these monsters approached extinction on their own worlds, a mysterious force brought them to Petrichor V. The planet quickly grew to be a menagerie of the most dangerous monsters in the galaxy, and they’re not thrilled by interlopers (aka YOU).<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/extras/12_Diversity_of_Environment.gif?t=1699995226"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/extras/13_rule_bending_artifacts.gif?t=1699995226"><br/>Variety is the spice of destruction. Select from more than 10 Artifacts that each mutate your run! Perhaps you’d like to start with a random equipment item that changes every time it’s used, or maybe you’d like to experience a rampant Imp invasion every 10 minutes. Play around with combinations of Artifacts and discover exciting new ways to play.<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1337520/extras/14_place_holder_gif_3_possible_artifact.gif?t=1699995226"> </img></img></img></img></img></img></img></img></img></img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Roboquest</title>
+			<link>https://store.steampowered.com/app/692890/Roboquest/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/692890/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/692890/extras/GIF_Oasis.gif?t=1700122097"><br/><br/>Roboquest is a fast-paced FPS with Roguelite mechanics playable in singleplayer or 2 players co-op.<br/><br/>Shoot and run your way through randomly generated environments, pick-up upgrades along the way and blast the powerful big bad bosses you encounter.<br/><br/>Upgrade your basecamp and unlock persistent upgrades to customize your playstyle and dive further on each subsequent run.<br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/692890/extras/Breakline_Robot_StorePage.png?t=1700122097"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/692890/extras/Breakline_Title_Features.png?t=1700122097"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/692890/extras/GIF_Act2.gif?t=1700122097"><br/><br/><strong>Fast Movement</strong> – <i>Master the frantic movement mechanics in order to run and jump through the levels with evasive maneuvers against the enemy bullet-hell.</i><br/><br/><strong>Guardian Classes</strong> – <i>Choose from several classes: lead your army of drones, blast tons of enemies at once with a powerful rocket or stealth-in for a sudden burst attack.</i><br/><br/><strong>Build Customization</strong> - <i>Create your build along the way with unique sets of upgrades for each class, find powerful synergies and further personalize your playstyle.</i><br/><br/><strong>Weapon Diversity</strong> – <i>From regular shotguns, rifles and snipers to the almighty mortar and flare gun, Roboquest offers a large diversity of weapons to choose from.</i><br/><br/><strong>Random Levels</strong> – <i>Each with a different theme and atmosphere, generated with a careful mix of pre-placed and randomized chunks, the levels offer a fresh challenge each run.</i><br/><br/><strong>Run, fall, run again</strong> – <i>Tough challenges await you, and mastery is required. Learn the way of the enemy and master movement and shooting to prevail. Prepare to return to your basecamp if you are destroyed by the evil bots.</i><br/><br/><strong>Persistent Upgrades</strong> – <i>Collect wrenches during your runs and use them to upgrade your basecamp and unlock new gameplay elements and choices to help you dive further into the game each run.</i><br/><br/><strong>Singleplayer or 2p-Coop</strong> – <i>Dive into the fray alone or in 2-player co-op with your brobot (and find even more brobots with the cross-platform and the public matchmaking).</i><br/><br/><strong>Polished experience</strong> – <i>Responsive input system with many quality-of-life ‘under-the-radar’ features to make it as fluid as possible and make sure nothing comes in your way when unleashing havoc on the badbots.</i><br/><br/><strong>Original Soundtrack</strong> – <i>High octane, custom-tailored soundtrack supports the fast gameplay and robot-smashing action.</i><br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/692890/extras/Breakline_Robot_StorePage.png?t=1700122097"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/692890/extras/Breakline_TheWorld.png?t=1700122097"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/692890/extras/GIF_Act1.gif?t=1700122097"><br/><br/>The year is 2700. Humans live scattered through the desert, struggling to survive. It’s looking pretty bleak.<br/>Until a young scavenger girl named Max stumbles across an old Guardian robot, laying abandoned in the sand. She reactivates him, knowing that with a Guardian by her side, she may be able to give mankind a fighting chance…<br/>Together, the two begin to explore the mysterious canyons that surround them, searching for answers and a way to survive.<br/>There’s just one problem. The canyons are crawling with evil bots, determined to stop them from advancing. But who are they? And what are they guarding?						</img></img></img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Watermelon Game</title>
+			<link>https://store.steampowered.com/app/2658820/Watermelon_Game/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2658820/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							10 possible fruits and one goal, reach the Watermelon.<br/>Your job is to combine matching fruits to evolve them to the next one and eventually reach the coveted Watermelon.<br/>To help you, you have 3 different abilities at your disposal. But watch out, using these will cost you some of your points. Be smart about when you use them to get the highest score!<h2 class="bb_tag">GET THE WATERMELON</h2>How many Watermelons can you combine before your basket overflows?<h2 class="bb_tag">USE YOUR ABILITIES</h2>Power, level up and destroy — These abilities will help you reach the Watermelon, using any of those will also allow you to angle your aim.<h2 class="bb_tag">GOLDEN FRUIT</h2>If luck is on your side, you might even see the mysterious Golden Fruit. Find it and witness its effect firsthand.<h2 class="bb_tag">STATISTICS</h2>Track your progress with in-depth statistics. Visit the menu to see the number of fruits you've combined, your ability usage, and much more.<h2 class="bb_tag"></h2><a href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fopen.codecks.io%2Fwatermelon-game" rel="noopener" target="_blank"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2658820/extras/Roadmap_Banner.png?t=1700532981"/></a> </div></div>]]></description>
+		</item>
+		<item>
+			<title>Cards and Castles 2</title>
+			<link>https://store.steampowered.com/app/1719390/Cards_and_Castles_2/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1719390/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Both incredibly deep and easy for new players to pick up, this fun and wacky CCG features a tactical board for a touch of strategy. Cards played spring to life on the battlefield as animated characters who can move and block enemies, adding depth to the traditional CCG formula. Build unique decks from 7 different iconic factions: Vikings, Crusaders, Warlocks, Pirates, Ninjas, Druids, and the NEWLY ADDED undead!<h2 class="bb_tag">Game Features</h2><br/><ul class="bb_ul"><li> Worldwide Online Cross-Platform Multiplayer<br/></li><li> Cross-Platform Accounts<br/></li><li> Multiplayer Lobbies, Friends Lists, and Chat<br/></li><li> Draft Mode<br/></li><li> Single Player Modes<br/></li><li> Collectible Cosmetics<br/></li><li> Lots of Free Cards<br/></li><li> Penguins</li></ul> </div></div>]]></description>
+		</item>
+		<item>
+			<title>RoboCop: Rogue City</title>
+			<link>https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1681430/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<a href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2FGzNdTVQAs6" rel="noopener" target="_blank"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1681430/extras/ROBOCOP_ROGUE_CITY_BANNER_DISCORD_615x195px_EN.jpg?t=1700494253"/></a><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1681430/extras/Robocop_Rogue_City_Basegame_Steam_Gif01_EN.gif?t=1700494253"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1681430/extras/Robocop_Rogue_City_Basegame_Steam_Gif02_EN.gif?t=1700494253"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1681430/extras/Robocop_Rogue_City_Basegame_Steam_Description_Banner01_EN.png?t=1700494253"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1681430/extras/Robocop_Rogue_City_Basegame_Steam_Gif03_EN.gif?t=1700494253"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1681430/extras/Robocop_Rogue_City_Basegame_Steam_Description_Banner02_EN.png?t=1700494253"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1681430/extras/Robocop_Rogue_City_Basegame_Steam_Gif04_EN_V1.gif?t=1700494253"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1681430/extras/Robocop_Rogue_City_Basegame_Steam_Description_Banner03_EN.png?t=1700494253"> </img></img></img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>STAR OCEAN THE SECOND STORY R</title>
+			<link>
+				https://store.steampowered.com/app/2238900/STAR_OCEAN_THE_SECOND_STORY_R/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2238900/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							The highly acclaimed second instalment in the STAR OCEAN series, returns as STAR OCEAN THE SECOND STORY R. <br/><br/>Brought to life with a unique 2.5D aesthetic, which fuses 2D pixel characters and 3D environments, this remake includes everything that made the original release so great while adding new elements too!<br/>Experience new battle mechanics, full Japanese and English voice overs, original and re-arranged music, fast-travel and so much more! Discover the definitive version of a classic but modernized JRPG that’s perfect for newcomers and long-time fans alike.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2238900/extras/RED_STEAM_Gif_Story_EN.gif?t=1700154197"><br/><br/>Space Date 366 - A Federation officer finds himself transported to a mystical planet. While searching for a way home, an encounter with a young girl draws him into a quest to save her people, just as an ancient prophecy foretold... <br/>Choose your path and witness an awakened destiny. <br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2238900/extras/RED_STEAM_Gif_Features_EN.gif?t=1700154197"><br/><br/><strong>- Fantasy and Science Fiction collide in a unique visual style</strong><br/>From dangerous dungeons to bustling towns, the world of STAR OCEAN THE SECOND STORY R is depicted in a stunning 2.5D style that combines beautiful 3D graphics with nostalgic 2D pixel characters. <br/><br/><strong>- Experience a story with dual protagonists</strong><br/>Start your journey with either Claude or Rena. Depending on your choice, the perspectives and the allies you can recruit will change. <br/>Get to know party members via the unique Private Actions system, grow relationships and unlock various endings.<br/>New character illustrations have also been created by long-term series artist Yukihiro Kajimoto. <br/><br/><strong>- Thrilling, visually explosive battles!</strong><br/>Enjoy fast-paced combat and use new mechanics to strategically defeat foes. <br/> “Break” by continuously dealing damage and order your allies to follow-up with an Assault Action to deal massive damage.<br/> <br/><strong>- Pair powerful gear with a plethora of skills</strong><br/>Customize party progression with a large selection of skills, including Cooking, Art, Metalcraft, and many more. Build up to Specialty levels and master the enhanced Item Creation system to craft ultimate equipment with different effects. <br/><br/><strong>- Japanese and English voiceover</strong><br/>All event scenes are now fully voiced using the same voice cast from the original game. In addition, the dialogue from STAR OCEAN SECOND EVOLUTION (2008) is also included and can be selected. <br/><br/><strong>- An iconic soundtrack rearranged by Motoi Sakuraba</strong><br/>All tracks have been re-composed, including full-band performance and strings sound. Exploration and movie scenes themes also have new recordings that take them to even greater heights.<br/> <br/><strong>- 3 difficulty modes</strong><br/>Pick EARTH for a relaxing journey, GALAXY for a satisfying challenge or UNIVERSE… if you’re brave enough to really put your skills to the test.						</img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>The Talos Principle 2</title>
+			<link>
+				https://store.steampowered.com/app/835960/The_Talos_Principle_2/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/835960/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/835960/extras/Talos2_reviews.jpg?t=1700476673"><br/><br/>Born into a new world where biological humanity is extinct but human culture lives on in a city of robots, you find yourself swept up in a mind-bending adventure involving a mysterious megastructure hiding enormous powers.<br/><br/>The more you discover, the more you will be confronted with questions about the nature of the cosmos and the purpose of civilization. The broken promise of a better tomorrow, the fear of repeating humankind’s mistakes, faith in reason or renouncing humanity altogether - the choices you make and the sides you take will determine the course of events.<h2 class="bb_tag">A New Generation of Puzzles</h2>Solve a wide array of puzzles with varying difficulty levels, including clever metapuzzles and highly challenging Gold puzzles. Finish the game without solving every puzzle, or pursue the rewards of complete mastery. A variety of new abilities, such as gravity manipulation and mind transference, join the established mechanics of the original Talos Principle, creating a fresh but familiar experience.<h2 class="bb_tag">A Philosophical Odyssey</h2>Take the next step forward in the story of The Talos Principle in a thought-provoking, character-driven interactive story with multiple endings penned by returning writers Jonas Kyratzes (The Eternal Cylinder, Clash: Artifacts of Chaos) and Tom Jubert (The Swapper, Subnautica), joined by Verena Kyratzes (The Hand of Merlin, Serious Sam 4).<h2 class="bb_tag">Brave New World</h2>Explore more than a dozen all-new environments, from a city on the brink of a paradigm shift to the varied landscapes of a mysterious island that holds the keys to the future. Take a break from puzzle-solving to discover long-buried secrets and strands of forgotten history.<h2 class="bb_tag">The Melodies of Creation</h2>Immerse yourself in the rich, bittersweet world of The Talos Principle with a stunning soundtrack by master composer Damjan Mravunac (Serious Sam, The Talos Principle), with a guest appearance by Chris Christodoulou (Risk of Rain 1 and 2).						</img></div></div>]]></description>
+		</item>
+		<item>
+			<title>My Time at Sandrock</title>
+			<link>https://store.steampowered.com/app/1084600/My_Time_at_Sandrock/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<strong>My Time at Sandrock</strong>-Just like My Time at Portia, My Time at Sandrock takes place in a wholesome post-apocalyptic world 330 years after the Day of Calamity destroyed most modern technologies.<br/><br/>After accepting a job offer to become Sandrock’s newest Builder, you’ll arrive in the wild and rugged city-state, where it’s up to you and your trusty tools to restore the community to its former glory. Gather resources to build machines, befriend locals, and defend Sandrock from monsters — all while saving the town from economic ruin!<h2 class="bb_tag">Key Features</h2><img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/extras/Build_your_workshop.png?t=1700732786"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/extras/build_workshop-min.gif?t=1700732786"><br/><br/>Transform a run-down workshop into a well-oiled production facility! Use an intricate set of machines to process materials and produce parts of huge structures before assembling them piece by piece to help Sandrock flourish.<br/><br/>Create hundreds of unique items at the worktable to decorate your homestead, give gifts to Sandrock’s residents, or assist with community requests.<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/extras/Explore_the_open_world.png?t=1700732786"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/extras/explore-min.gif?t=1700732786"><br/><br/>Explore vast deserts surrounding the city-state of Sandrock. Dive into ruins to dig for Old World relics, seek our materials in hard-to-reach locations, or spend time relaxing in Sandrock with your neighbors.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/extras/Extensive_story___NPCs.png?t=1700732786"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/extras/npc-min.gif?t=1700732786"><br/><br/>Experience a detailed story complete with hundreds of sidequests and over 30 all-new characters. Spend time getting to know Sandrock’s residents, uncovering backstories, and making meaningful connections along the way.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/extras/New_combat.png?t=1700732786"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/extras/combat-min.gif?t=1700732786"><br/>Quickly shift between melee combat and third-person shooting mechanics in dynamic action battles.Use the new weapons and defense break mechanic to your tactical advantage, or boost your stats to simply smash through battles! <br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/extras/MINI_GAMES.png?t=1700732786"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/extras/mini_games-min.gif?t=1700732786"><br/>A diversity of mini-games allow you and local Sandrock residents to stay entertained in the desert town.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/extras/Multiplayer_EN.png?t=1700732786"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/extras/multiplayer-min.gif?t=1700732786"><br/>Explore, build, and battle with up to 4 players. Together, shape the dynamic town, construct towering structures, engage in battles, share romantic moments, and dive into mini-games. Every move counts, earning points and unlocking new dimensions for your evolving character. <br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/extras/And_more.png?t=1700732786"><br/><br/><ul class="bb_ul"><li>Use your workshop’s profits to turn the empty prairie into farmable land;<br/></li><li>Grow crops for extra cash or transform them into delicious dishes;<br/></li><li>Attend festivals with Sandrock’s residents;<br/></li><li>Find secrets and much more!</li></ul><br/>Both <strong>Portians </strong>and <strong>brand-new Builders </strong> who have never set foot in Portia will find a fun new world with lots to explore at their own pace, along with divergent NPC stories to enhance replayability. Experienced Builders will find everything you enjoyed about <a href="https://store.steampowered.com/app/666140/My_Time_At_Portia/" rel="" target="_blank"> My Time at Portia </a> and more, and you will feel right at home in the delightful life-sim RPG that is My Time at Sandrock.<br/><br/><a href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FdZAQjFp" rel="noopener" target="_blank"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1084600/extras/Steam_DiscordJoin_banner_Sandrock_003_1_.jpg?t=1700732786"/></a> </img></img></img></img></img></img></img></img></img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Planet S</title>
+			<link>https://store.steampowered.com/app/1948430/Planet_S/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1948430/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Planet S is a real-time strategy game where your goal is to colonize multiple planets in a solar system to advance your civilization, build a city and supply it to grow your faction.<h2 class="bb_tag">Procedural planets</h2>The world consists of up to 14 procedurally generated planets which you can colonize. A planets type affects things like the appearance, the farm productivity and the kind of resources you can find on it. Every player starts the game with a spaceship and enough materials to colonize their first planet. Uncolonized planets can be claimed by building a spaceport on it. Once you claimed a planet, you can integrate it into your economy! <br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1948430/extras/PP.gif?t=1700519036"><h2 class="bb_tag">Build your civilization</h2>To advance your faction and unlock new buildings you need to attract residents and provide them the goods they require. By gaining more and more residents, you will unlock new production chains which will increase in complexity. At some point, your first planet won't be able to supply you with the resources you need, so you need to expand to other planets. <br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1948430/extras/Build_Your_Civ.gif?t=1700519036"><h2 class="bb_tag">Choose your path</h2>While you start your population with workers, you need to make a decision when you advance to the second tier. You can upgrade your residents to the science or military civilization type. You can adjust the direction in an adjacent city center. Your decision will determine your path for the game and set a focus on either a more peacefully or a violent way of playing and winning the game. It may be rational to carefully consider your decision and adapt to the situation you are in. <br/><br/>Residents of a civilization type generate either science or military research points, which you can invest into research. The two research trees unlock bonuses and unique buildings for the corresponding civilization type. Through that, the game experience will rely heavily on the path you select. <br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1948430/extras/Choose_your_path.png?t=1700519036"><h2 class="bb_tag">Multiplayer</h2><br/>You can play alone or with up to three friends. You can either practice diplomacy and negotiate agreements, or act militarily against each other. Coupled with the fact that each player can build his civilization differently, every game remains exciting. <br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1948430/extras/War.png?t=1700519036"> </img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Ghostrunner 2</title>
+			<link>https://store.steampowered.com/app/2144740/Ghostrunner_2/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2144740/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/2144740/extras/GR-2-Logo.gif?t=1699899705"><br/><br/>Blood will run in the highly anticipated hardcore FPP slasher set one year after the events of Ghostrunner. Adventure through a post-apocalyptic cyberpunk future that takes place after the fall of the Keymaster, a tyrant who ruled over Dharma Tower, the last refuge of mankind. Jack is back to take on the violent AI cult that has assembled outside Dharma Tower and shape the future of humanity.<br/><br/>Featuring incredible katana combat mechanics, a deeper exploration of the world beyond Dharma Tower, nonlinear levels with complex motorbike sections, exciting new modes, and all the action you loved about Ghostrunner. Plus, boss fights are more interactive, giving players freedom to choose how to survive battles against the toughest opponents.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2144740/extras/GR2_Katana-02-Crop.gif?t=1699899705"><br/><br/><strong>Become The Ultimate Cyber Ninja</strong><br/>Ghostrunner 2 introduces new skills, allowing players to be more creative and take on even the most demanding encounters with greater accessibility. However, enemies in Ghostrunner 2 behave uniquely dependent on the skills used against them, providing a fresh challenge with each encounter. The player progression system has been completely redone, providing opportunities to experiment and customize gameplay.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2144740/extras/GR2_Motorbike-02-Crop.gif?t=1699899705"><br/><br/><strong>Immersive, Mind-Bending Features</strong><br/>Master the Cybervoid if you hope to survive. Take on challenging, new enemies as you traverse interactive environments including exploding barrels, destructible walls, helpful neutral entities, and countless improvements that keep combat exciting and fresh. Can’t get enough? Dive even deeper into the lore and plot with the new dialogue system.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2144740/extras/GR2_Shuriken-02-Crop.gif?t=1699899705"><br/><br/><strong>Sounds of the Cybervoid</strong><br/>Save humanity in style as you decimate your opponents while listening to the captivating synthwave soundtrack featuring new music from Daniel Deluxe, We Are Magonia, Gost, Dan Terminus, and Arek Reikowski.						</img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Slay the Princess</title>
+			<link>https://store.steampowered.com/app/1989270/Slay_the_Princess/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1989270/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							You're on a path in the woods, and at the end of that path is a cabin. And in the basement of that cabin is a Princess. <br/><br/>You're here to slay her. If you don't, it will be the end of the world.<br/><br/>She will do everything in her power to stop you. She'll charm, and she'll lie, and she'll promise you the world, and if you let her, she'll kill you a dozen times over. You can't let that happen. Don't forget, the fate of the world rests on your shoulders.<br/><br/><i>You're not going to listen to him, are you? We're supposed to save princesses, not slay them...</i><br/><br/><strong>Features</strong><br/><br/><ul class="bb_ul"><li> <strong>Fully voice-acted</strong> by the impeccable Jonathan Sims and Nichole Goodnight.<br/></li><li> <strong>Hand-penciled art</strong> - every background and sprite is drawn traditionally with pencil and paper by Ignatz-winning graphic novelist Abby Howard.<br/></li><li> <strong>A princess.</strong> She's very bad and you have to get rid of her for all our sakes.<br/></li><li> <strong>No, the Princess isn't a cosmic horror.</strong> She's just an ordinary human Princess, and you can definitely slay her as long as you put your mind to it.<br/></li><li> <strong>Don't even think about trying to romance her.</strong> It won't end well for you.<br/></li><li> <strong>Hopefully you won't die.</strong> But if you do, you'll die a lot. Be careful and stay focused on the task at hand!<br/></li><li> <span class="bb_strike">Time loops</span> <strong>No time loops.</strong> Don't be ridiculous. Time is a strictly linear concept and it certainly doesn't "loop," whatever that's supposed to mean.<br/></li><li> <strong>A branching narrative</strong> where what you say and what you believe determines both who you are and how the story unfolds.<br/></li><li> <strong>A new roleplaying experience from the creators of <a href="https://store.steampowered.com/app/1609230/Scarlet_Hollow/" rel="" target="_blank">Scarlet Hollow</a>.</strong><br/><br/><a href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fdiscord.gg%2FxCnAeqkkEY" rel="noopener" target="_blank"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1989270/extras/discord_3.png?t=1700249330"/></a><br/><br/><i>Slay the Princess is a choice-driven psychological horror visual novel/dating sim with dramatic branching, light RPG elements, and hand-penciled art.</i></li></ul> </div></div>]]></description>
+		</item>
+		<item>
+			<title>TELEFORUM</title>
+			<link>https://store.steampowered.com/app/2186570/TELEFORUM/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2186570/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<a href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FUdjMNaKkQe" rel="noopener" target="_blank"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2186570/extras/CR-Channel-Join-Discord.png?t=1699958780"/></a><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2186570/extras/TELTETEXT-2.png?t=1699958780"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2186570/extras/TELEFORUM-vhs_GS.gif?t=1699958780"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2186570/extras/TELTETEXT-1.png?t=1699958780"><br/><br/>Journalist Walter Martins ended his life during the broadcast of “TELEFORUM”, a now-canceled TV program.<br/><br/>You’re visiting the apartment of his widow - to console the grieving woman and shine some light on this awful story…<br/><br/>But that’s not the main reason why you’re here.<br/><br/>It’s all about the <strong><i>tape</i></strong>, isn’t it?<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2186570/extras/TELEFORUM-what_GS.gif?t=1699958780"><br/><br/>Try to find out the truth and, <strong><i>PLEASE</i></strong>, ■■ NOT ■■■■■ ■■■■ ■■■■. This is important.<h2 class="bb_tag"><strong>FEATURES</strong></h2><br/><br/><ul class="bb_ul"><li>Analog VHS visual style, inspired by found-footage horror;<br/></li><li>As the reporter, conduct an interview with a grieving wife - balance between finding answers and pushing her over the edge;<br/></li><li>As the cameraman, explore the surroundings to uncover the truth;<br/></li><li>Multiple endings - can you solve the mystery of the tape?</li></ul> </img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Infection Free Zone – Prologue</title>
+			<link>
+				https://store.steampowered.com/app/2485640/Infection_Free_Zone__Prologue/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2485640/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<a href="https://store.steampowered.com/app/1465460/Infection_Free_Zone/" rel="" target="_blank"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2485640/extras/go_ifz_112_steam_city__1_.jpg?t=1698678399"/></a><br/><br/><a href="https://store.steampowered.com/app/1465460/Infection_Free_Zone/" id="dynamiclink_3" rel="" target="_blank">https://store.steampowered.com/app/1465460/Infection_Free_Zone/</a><br/><br/>Face the first few days after the survivors come to the surface. Gather resources, scavenge the buildings and create a Zone that will be able to stop horde attacks at night. Conquer Prologue to prove you're ready for the upcoming full version of Infection Free Zone.<h2 class="bb_tag"> <img src="https://cdn.akamai.steamstatic.com/steam/apps/2485640/extras/go_ifz_SOCIETY_HAS_COLLAPSED_V2.gif?t=1698678399"/></h2>“The Mad Virus” has spread throughout the world with the speed of jet planes. The infected are highly aggressive, fast and strong.   <br/>In a couple of weeks, society collapsed. Cities are empty. There is no electricity, no water, and no food.  Yet, there are a few survivors...<h2 class="bb_tag"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2485640/extras/go_ifz_REBUILD_ENG.gif?t=1698678399"/></h2>Establish a new “Infection Free Zone” wherever you choose. Set up shelters and production facilities. Adapt existing buildings to new needs. Build new farms and cookhouses. Establish defenses with walls, gates, and towers.<h2 class="bb_tag"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2485640/extras/go_ifz_SCAVENGE_ENG.gif?t=1698678399"/></h2>Utilize your knowledge of the city. What is the best place to defend? Where were the grocery stores, where were the pharmacies? Where would you look for weapons? <br/>Remember that it’s dangerous to search the old buildings, there might be some infected lurking in the dark!<h2 class="bb_tag"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2485640/extras/go_ifz_FIGHT_THE_INFECTED_ENG.gif?t=1698678399"/></h2>Each night your settlement might be attacked by large hordes of the infected. Fight them off with every tool available - melee and ranged weapons, vehicles, walls and towers. Strengthen your Zone and create an impregnable fortress, or simply enjoy rebuilding entire cities!<h2 class="bb_tag"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2485640/extras/go_ifz_FIGHT_THE_LIVING_ENG.gif?t=1698678399"/></h2>Your Zone is not the only one that exists. Your survivors will surely find other surviving groups. Some will be friendly and willing to trade, but others will be extremely hostile. There might be some fighting involved!<h2 class="bb_tag"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2485640/extras/go_ifz_DEFEND_THE_ZONE_ENG.gif?t=1698678399"/></h2> </div></div>]]></description>
+		</item>
+		<item>
+			<title>Diablo® IV</title>
+			<link>https://store.steampowered.com/app/2344520/Diablo_IV/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2344520/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Join the fight for Sanctuary in Diablo IV, the ultimate action RPG adventure. Experience the campaign and new seasonal content.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2344520/extras/D4-Steam_Game-Standard_Edition_Image-616x347-en.png?t=1700691421"><br/>Diablo® IV Standard Edition includes:<br/>- Inarius Wings &amp; Inarius Murloc Pet in Diablo® III**<br/>- Amalgam of Rage Mount in World of Warcraft®**<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2344520/extras/D4-Steam_Game-Product_Copy_Image_01-616x347-en.png?t=1700691421"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2344520/extras/D4-Steam_Game-Product_Copy_Image_02-616x347-en.png?t=1700691421"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2344520/extras/D4-Steam_Game-Product_Copy_Image_03-616x347-en.png?t=1700691421"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2344520/extras/D4-Steam_Game-Product_Copy_Image_04-616x347-en.png?t=1700691421"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2344520/extras/D4-Steam_Game-Product_Copy_Image_05-616x347-en.png?t=1700691421"> </img></img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Wizard with a Gun</title>
+			<link>https://store.steampowered.com/app/1150530/Wizard_with_a_Gun/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1150530/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Wizard with a Gun is an online cooperative sandbox survival game set in a magical wilderness wrought with dangerous creatures and arcane mysteries. Embark on a journey alone or with a friend to collect, craft, and outfit your wizard however you see fit as you explore the unknown. Carefully design weapons, bullets, and furnishings for your tower home but try not to burn it all down as the magic you wield escalates beyond your control...<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1150530/extras/G9.gif?t=1697605388"><h2 class="bb_tag">Magical Weapon Customization</h2>Collect resources from the world and craft unique enchanted ammunition for your arsenal of guns. Combine elements for intended or suprising effects that alter the shot, blast radius, bullet trail, and even the status of the creature in your crosshairs<br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1150530/extras/G5.gif?t=1697605388"><h2 class="bb_tag">Customized Whimsical Wizards</h2>Create a dazzling wardrobe for your magic wielder from robes and hats to armor and accessories - functional and fashionable in a way that's sure to impress.<br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1150530/extras/G7.gif?t=1697605388"><h2 class="bb_tag">Randomly Generated Biomes</h2>Explore and uncover new sections of the world filled with deserts, swamps, tundra, and prairies - all loosely floating together through space and time after the world was fractured. Unleash cosmic power from the safety of your tower to reset the world and emerge once again to find a new layout to once familiar lands.<br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1150530/extras/G8.gif?t=1697605388"><h2 class="bb_tag">Cooperative Adventuring</h2>Survive alone or with a wizard friend in online cooperative play to combine resources, magic, and creativity in your tower building. Or just watch it all burn down together - the choice is yours.<br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1150530/extras/G6.gif?t=1697605388"><h2 class="bb_tag">Systemic Gameplay</h2>Experiment with new spell combinations and find out how they affect enemies and the world around you the hard way. Creative arrangements can lead to powerful creations that overwhelm your foes while untethered amalgamations can be a recipe for disaster!						</img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Tony Hawk's™ Pro Skater™ 1 + 2</title>
+			<link>
+				https://store.steampowered.com/app/2395210/Tony_Hawks_Pro_Skater_1__2/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2395210/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Play the fully-remastered Tony Hawk’s™ Pro Skater™ &amp; Tony Hawk’s™ Pro Skater™ 2 games in one epic collection, rebuilt from the ground up in incredible HD.<br>
+<br>
+Skate as the legendary Tony Hawk and the original pro roster, plus new pros. Listen to songs from the era-defining soundtrack along with new music. Hit insane trick combos with the iconic handling of the Tony Hawk’s™ Pro Skater™ series.<br>
+<br>
+Play all the original modes and go head-to-head with local 2-Player modes. Show off your style and creativity with upgraded Create-A-Park and Create-A-Skater features. Compete against players from around the world in Multiplayer modes and leaderboards.						</br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>COCOON</title>
+			<link>https://store.steampowered.com/app/1497440/COCOON/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1497440/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							From Jeppe Carlsen, the lead gameplay designer of LIMBO and INSIDE — COCOON takes you on an adventure across worlds within worlds. Master world-leaping mechanics to unravel a cosmic mystery.<br/><br/><strong>Worlds within Worlds</strong><br/>COCOON is a unique take on the puzzle adventure genre, where each world exists within an orb that you can carry on your back. Wrap your head around the core mechanic of leaping between worlds—and combine, manipulate, and rearrange them to solve intricate puzzles.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1497440/extras/GIF_C9_15.gif?t=1699984773"><br/><br/><strong>Alien Machinery</strong><br/>Interact with alien environments and biomechanical devices left behind by an ancient civilization. Journey through unique and diverse biomes, from industrial structures to massive organic caverns, and discover how they are connected to one another.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1497440/extras/GIF_A_15.gif?t=1699984773"><br/><br/><strong>Orb Abilities</strong><br/>Each orb has an ability that can be unlocked, thereby turning the orb into a unique tool for you to utilize within other worlds. Use these abilities to uncover hidden pathways and objects, fire projectiles to trigger switches, and more.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1497440/extras/GIF_B2_15.gif?t=1699984773"><br/><br/><strong>Monstrous Guardians</strong><br/>Mighty guardians protect every world, and you must face them in fierce battles. Each fight is unique and requires you to master new and satisfying mechanics.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1497440/extras/GIF_D_15.gif?t=1699984773"> </img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Moonring</title>
+			<link>https://store.steampowered.com/app/2373630/Moonring/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2373630/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<strong>A <i>free</i> game by the co-creator of the XBox's Fable series.</strong><br/><br/>Five hundred years ago, the land of Caldera was plunged into endless darkness. Decades later, five moons rose in the sky, bringing light to the world and strange Gods with it. With them came the Dreams: calls to Devotion promising supernatural Gifts.<br/><br/>Thus, the new Calderan civilisation was born; a world of Devotion and Dreamers, Gods and Gifts, with a Dreamless Archon acting as the Gods' mortal representative. But Archons are not eternal, and a successor must be found.<br/><br/>You are Dreamless: free to choose your own destiny, to ask questions others dare not, or even become Archon yourself.<br/><br/>What will you do, Dreamless one?<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2373630/extras/SteamSeparator.png?t=1697860475"><br/>Moonring is a retro-inspired open-world, turn-based, tile RPG in the style of the classic Ultima games, but created from the ground up with modern design sensibilities.<br/><br/>The world's geography is hand-designed, but the deadly dungeons beneath the surface reconfigure each time you leave... or die.<br/><br/>Travel, trade, sneak, fight and sail the world of Caldera. Speak with the townsfolk, learn Caldera's secrets, and challenge the Archon for his throne... or even overthrow the Gods themselves!<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2373630/extras/SteamSeparator.png?t=1697860475"><br/>Features:<br/>- Large, hand-designed open world<br/>- An infinite supply of dungeons generated using your character name<br/>- Over 100 varied enemy types, from fodder to bosses<br/>- 35 unique Gifts from the Gods, their usage changing with the moon phases<br/>- Sailing, ship-to-ship combat and boarding<br/>- A Dungeon Synth OST with over 50 tracks, all made using retro Mod Trackers!<br/>- A hidden magic system and many other mysteries<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2373630/extras/SteamSeparator.png?t=1697860475"><br/>A note from the creator:<br/><br/>Hi folks. I've loved RPGs since the early 1980s, and grew up playing games like Lord British's 'Ultima' series and early Roguelikes. This is my love-letter to a style of gaming that has largely fallen out of fashion: with its vivid, bright sprites overlaid on stark black backgrounds, true open-world gameplay, and lack of handholding. The days I spent playing these games were spent in joyful exploration and discovery, venturing into the dark unknown, a co-author of the experience, filling in the gaps left by the primitive art with my imagination. For those of you who did the same, I hope Moonring recaptures some of the spirit of those days for you. For those who did not, I hope that the more modern conveniences you find in this game allow you to catch a glimpse of what we did 40 years ago.<br/><br/>My heartfelt thanks to all who spared even a moment to play this. Please be kind to my mistakes. I will fix them. :-)<br/><br/>- Dene						</img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Train Sim World® 4</title>
+			<link>https://store.steampowered.com/app/2362300/Train_Sim_World_4/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2362300/header_alt_assets_0.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							YOUR HOBBY – YOUR ADVENTURE – YOUR WAY<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2362300/extras/Gif_1.gif?t=1700668388"><br/><br/>Feel the power of simulation in your hands. Experience immense velocity and express unrivalled creativity with Train Sim World 4! Expand your rail hobby and discover the raw emotion of driving a diverse array of iconic routes and trains. From training center to mountain pass, this is your journey.<br/><br/>RAIL SIMULATION FOR ALL<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2362300/extras/Gif_2_1.gif?t=1700668388"><br/><br/>Learn the basics of operating a range of traction in the Training Center, which now features the Class 323 and 8F as well as the Class 66, meaning you can get to grips with diesel, steam and electric power, before taking to the rails of the real world. Play with trains that work for you, new difficulty ratings offer early insight into the complexity of content, and new settings eliminate trip-up areas, build your confidence, then master every machine.<br/><br/>FREEDOM TO CREATE<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2362300//extras/Gif_3.gif?t=1700668388"><br/><br/>FREE ROAM! Pick any train you want and drive it wherever you want – you now have complete control over how to run routes in your way. Take a photo and make the memories last with PHOTO MODE and GALLERY – pause in the middle of the action and craft the perfect shot; the power is in your hands. Get creative with the upgraded SCENARIO PLANNER and LIVERY DESIGNER, which now feature additional tools and options to fine tune your personalised train experience. Share your hard work with other players through CREATORS CLUB. <br/><br/>CHOOSE YOUR PATH<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2362300//extras/Gif_4.gif?t=1700668388"><br/><br/>Whether you are brand new to Train Sim World or a long-standing veteran, enter Train Sim World 4 in your own way – various paths and upgrade options are available to get you started. If you upgrade from a previous Train Sim World, your collection and profile progress come with you!<br/> <br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2362300/extras/TSW4_SKU_Infographic_Steam_Standard_616x347.png?t=1700668388"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2362300/extras/TSW4_SKU_Infographic_Steam_Deluxe_616x347.png?t=1700668388"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2362300/extras/TSW4_SKU_Infographic_Steam_Special_616x347.png?t=1700668388"><h2 class="bb_tag">Key Features</h2> <br/><ul class="bb_ul">  <li>Learn to drive realistic trains on detailed routes <br/></li><li>Expand your knowledge on the Training Center <br/></li><li>Put your skills to the test across engaging scenarios and varied timetables  <br/></li><li>Express your creativity with Livery Designer, Scenario Planner and Photo Mode <br/></li><li>Choose your journey with Free Roam <br/></li><li>Experience all Train Sim World 4 has to offer with new available content <br/><ul class="bb_ul"> <li>East Coast Main Line: Peterborough - Doncaster with the LNER BR Class 801 <br/></li><li>Antelope Valley Line: Los Angeles - Lancaster with the Metrolink F125 <br/></li><li>S-Bahn Vorarlberg: Lindau - Bludenz with the ÖBB 4024 <br/></li><li>DELUXE EDITION: LNER Class A3 60103 Flying Scotsman <br/></li><li>DELUXE EDITION: Railpool BR 193 Vectron (and Nahverkehr Dresden - Riesa) </li></ul> </li><li>Expand your collection with new upcoming and TSW Compatible content <br/><ul class="bb_ul"><li>SPECIAL EDITION:<br/></li><li>Southeastern Highspeed: London St Pancras – Ashford Intl &amp; Faversham<br/></li><li>Linke Rheinstrecke: Mainz - Koblenz<br/></li><li>LGV Méditerranée: Marseille - Avignon<br/></li><li>Northeast Corridor: Boston - Providence</li></ul></li><li>Your existing collection comes with you <br/></li><li>Powered by Dovetail Games’ proprietary SimuGraph® vehicle dynamics engine and Unreal Engine 4® technology  <br/></li><li>Download size will vary depending on purchased content </li></ul> </img></img></img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>WitchSpring R</title>
+			<link>https://store.steampowered.com/app/1958220/WitchSpring_R/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1958220/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/1958220/extras/en-intro.gif?t=1698161918"><br/>WitchSpring R is a story-driven RPG combining elements of simulation, collecting &amp; crafting, and battling. Play as Pieberry, a white-haired, bunny-eared witch growing up in a forest filled with monsters. To relive her childhood memories (eating delicious food!), she longs to venture among humans, but she can't find a way to the outside world... until your story begins! A world of new experiences is waiting for YOU to explore with her.<h2 class="bb_tag"> Features </h2><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1958220/extras/en-魔女养成.gif?t=1698161918"><br/><ul class="bb_ul"><li>Train Pieberry in all kinds of skills to make her more powerful! Your choices decide her future growth<br/></li><li>Collect and fuse various magic ingredients. Cook magical meals for Pieberry to increase her magic abilities<br/></li><li>"Feed" unneeded nutrients to Pieberry's staff to upgrade it in the direction you choose.</li></ul><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1958220/extras/动画-俯卧撑.gif?t=1698161918"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1958220/extras/en-丰富的剧情.gif?t=1698161918"><br/>Follow Pieberry through an all-new story, encountering all sorts of witches, humans, and never-before-seen monsters. Are they friends? Foes? Or...? All kinds of hidden stories are waiting for you to set out and uncover!<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1958220/extras/动画-丢士兵.gif?t=1698161918"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1958220/extras/en-多重收集.gif?t=1698161918"><br/><ul class="bb_ul"><li>Magic tomes, recipes, and special items are hiding all over the world for you to discover;<br/></li><li>Train different types of pets for different types of help on your adventure;<br/></li><li>Choose your favorite magic attributes to train, designing your own battle strategy.</li></ul><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1958220/extras/动画-骑猪.gif?t=1698161918"><br/><br/>Finally (and most importantly!), our star Pieberry is brought to life with adorable, lively animation and voice acting. She can even dress as a human to sneak into the village!<br/><br/>Please Follow and Wishlist the game, and join our community to get all the latest updates!						</img></img></img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Cyberpunk 2077: Phantom Liberty</title>
+			<link>
+				https://store.steampowered.com/app/2138330/Cyberpunk_2077_Phantom_Liberty/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2138330/header_alt_assets_1.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Content</h2>
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/2138330/extras/EN_1.jpg?t=1695740414"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2138330/extras/EN_2.jpg?t=1695740414"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2138330/extras/EN_3.jpg?t=1695740414"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2138330/extras/EN_4.jpg?t=1695740414"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2138330/extras/EN_5.jpg?t=1695740414"> </img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Demonologist</title>
+			<link>https://store.steampowered.com/app/1929610/Demonologist/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/extras/Wishlistbanner.png?t=1698325288"><br/>Demonologist is a Co-Op horror game that can be played with at least 1 and up to 4 players. Your goal is to identify the type of evil spirit in cursed places and exorcise it using your equipment, either alone or with your team.<br/><br/><strong><img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/extras/RealisticGraphics.png?t=1698325288"> <br/>The best graphics in the co-op horror genre you'll ever play. Developed with Unreal Engine 5.</img></strong><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/extras/RG_V2.gif?t=1698325288"><br/><br/><strong><img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/extras/Uniq.png?t=1698325288"> <br/>You will encounter random events and ghosts in every game.</img></strong><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/extras/Shivers_JumpScare_V1.gif?t=1698325288"><br/><br/><strong><img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/extras/Voice.png?t=1698325288"><br/>Besides talking to ghosts, be careful what you speak, cursed places will react accordingly(One word you say can open a secret door).</img></strong><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/extras/Shivers_Voice_v1.gif?t=1698325288"><br/><br/><strong><img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/extras/SafeHouse.png?t=1698325288"><br/>You will be able to invite other people to your safe house and you will be able to select paranormal places to play. You will have a showcase where you can show your achievements.</img></strong><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/extras/SafeHouse.gif?t=1698325288"><br/><br/><strong><img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/extras/Custom.png?t=1698325288"> <br/>With the money you earn, you can improve your safe house or buy a new safe house. You can buy a pet that will stand with you in the safe house.</img></strong><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/extras/Character_Shop.gif?t=1698325288"><br/><br/><strong><img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/extras/RichContent.png?t=1698325288"><br/>Multiple maps and equipment to play with. Daily and weekly tasks. Unique events &amp; missions on special dates.</img></strong><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/extras/Zenginn.gif?t=1698325288"><br/><a href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FTjShucrnwG" rel="noopener" target="_blank"><img src="https://cdn.akamai.steamstatic.com/steam/apps/1929610/extras/DiscordHbbb.png?t=1698325288"/></a> </img></img></img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Farlight 84</title>
+			<link>https://store.steampowered.com/app/1928420/Farlight_84/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1928420/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<h2 class="bb_tag"><strong>Fast-paced hero Battle Royale. Your Farlight, Your Highlight! </strong></h2> <br/>Experience the thrill and excitement of Farlight 84, a groundbreaking battle royale game that redefines traditional gameplay. Unlock a diverse roster of heroes and harness their unique skills to dominate the battlefield. Take command of powerful vehicles, unleashing devastating firepower, or utilize jetpacks for swift and surprising attacks. With no instant death upon entry, showcase your combat skills without constraints. Join the battle now and prove your prowess in intense, burden-free encounters!<h2 class="bb_tag"><strong>Features:</strong></h2><h2 class="bb_tag"><strong>▶ Flexible Jetpacks. Dodge enemy bullets!</strong></h2>Master the jetpack for tactical advantage in battles, turning defeat into victory through strategic positioning!<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1928420/extras/jetpack.gif?t=1695292364"><h2 class="bb_tag"><strong>▶ Armed Vehicles. Unlimited transforming firepower!</strong></h2>Some vehicles can wade through rivers, while others can transform into formidable turrets or unleash their mighty firepower like a superhero. Join forces with your team, form a powerful convoy, and dominate your opponents with an arsenal of unstoppable vehicles!<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1928420/extras/vehicles.gif?t=1695292364"><h2 class="bb_tag"><strong>▶ Diverse Hero Skills. Not just for expert shooters!</strong></h2>Unlock four hero roles: Assault, Defense, Scout, and Support, and assemble a diverse combat squad where each member can find their own unique niche!<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1928420/extras/skills.gif?t=1695292364"><h2 class="bb_tag"><strong>▶ Multiple Revives. Get revenge instantly!</strong></h2>Even in the early stages of a battle, you have the chance to be revived, eliminating the risk of instant death upon landing. If a frontal attack fails, your teammates can come to your aid, allowing you to return to the battlefield for revenge.<h2 class="bb_tag"><strong>▶ Same account on mobile and PC for free!</strong></h2>Experience the best of both platforms with a single account! Enjoy the enhanced gameplay on your PC while savoring the convenience of playing anytime on your mobile device.<br/><br/><br/>Survivors, what are you waiting for? Join us now and embark on an endless journey of fun!						</img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Moonstone Island</title>
+			<link>https://store.steampowered.com/app/1658150/Moonstone_Island/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1658150/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/1658150/extras/SpiritBanner.gif?t=1700559357"><br/><strong>Moonstone Island</strong> is a creature-collecting life-sim set in an open world with 100 islands to explore. Make friends, brew potions, collect Spirits, and test your strength in card-based encounters to complete your Alchemy training!<h2 class="bb_tag">Spend time on islands in the sky!</h2>Following your village's tradition, you must move to an island in the sky to complete your Alchemy training. Armed with a team of nature spirits, magical potions, and the support of your new friends, you'll explore ancient temples, dangerous dungeons, and hostile biomes to uncover the dark secret of Moonstone Island.<br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1658150/extras/castBanner.png?t=1700559357"><br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1658150/extras/settleInV2.gif?t=1700559357"><br/><ul class="bb_ul"><li> Befriend NPCs, become a member of the community, go on dates, and fall in love<br/></li><li> Build a new home on any of the 100 islands in your procedurally generated world<br/></li><li> Grow crops and flowers to brew potions and tame spirits<br/></li><li> Customize and decorate your home to make it uniquely yours</li></ul><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1658150/extras/exploreBanner.gif?t=1700559357"><br/><ul class="bb_ul"><li> Travel by balloon, broom, and glider through unique biomes to reach the outer edges of the world<br/></li><li> Tame and befriend wild spirits to fight alongside you<br/></li><li> Discover and explore dungeons to earn upgrades, collect loot and uncover secrets<br/></li><li> Optimize your character with unique skills and upgrades<br/></li><li> Craft dozens of items and vehicles to prepare for the treacherous wilderness</li></ul><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1658150/extras/magicMan.gif?t=1700559357"><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1658150/extras/divider.png?t=1700559357"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1658150/extras/glider.gif?t=1700559357"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1658150/extras/divider.png?t=1700559357"> </img></img></img></img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Party Animals</title>
+			<link>https://store.steampowered.com/app/1260320/Party_Animals/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1260320/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<h2 class="bb_tag"> Make Painfully Great Memories with Your Friends in Party Animals. </h2><br/><br/><strong> Mess With Your Friend in 100 Different Ways</strong><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1260320/extras/001.gif?t=1700573729"><br/><br/><br/><strong>Or Together You Could Eliminate Others</strong><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1260320/extras/002.gif?t=1700573729"><br/><br/><br/><strong>Teamwork Is Also Highly Appreciated Here</strong><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1260320/extras/003.gif?t=1700573729"><br/><br/><br/><strong>Especially When Fighting For Gummy Bear</strong><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1260320/extras/2222.gif?t=1700573729"> </img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Lies of P</title>
+			<link>https://store.steampowered.com/app/1627720/Lies_of_P/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1627720/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<strong><img src="https://cdn.akamai.steamstatic.com/steam/apps/1627720/extras/steam_ending.gif?t=1700117197"/></strong><br/>You are a puppet created by Geppetto who’s caught in a web of lies with unimaginable monsters and untrustworthy figures standing between you and the events that have befallen the world of Lies of P.<br/><br/>You are awakened by a mysterious voice that guides you through the plagued city of Krat - a once lively place that has been poisoned by madness and bloodlust. In our soulslike, you must adapt yourself and  your weapons to face untold horrors, untangle the unfathomable secrets of the city's elites and choose whether to confront predicaments with the truth or weave lies to overcome them on the journey to find yourself.<br/><br/><strong><img src="https://cdn.akamai.steamstatic.com/steam/apps/1627720/extras/lop2.gif?t=1700117197"/></strong><h2 class="bb_tag"><strong>・ A DARKLY ELEGANT AND CRUEL WORLD</strong></h2>Unearth the secrets of the city of Krat – a place soaked in the style of the Belle Epoque era which once thrived due to its puppet industry and now sees its streets covered in blood.<h2 class="bb_tag"><strong>・BATTLE WITH TWISTED INSTRUMENTS</strong></h2>Develop a unique combat style to counter vicious enemies and terrain by weaving together dynamic weapon combinations, utilizing the Legion Arms, and activating new abilities.<h2 class="bb_tag"><strong>・WHAT’S IN A LIE?</strong></h2>There will be times when you will be confronted with choices where you can give comfort to others in sorrow or despair by lying…or you can choose to tell the truth. <br/><br/>Carve your own path.<h2 class="bb_tag"><strong>・A CLASSIC REIMAGINED</strong></h2>Experience the beloved fairy tale of Pinocchio reinterpreted as a dark, grim narrative that allows players to discover the secrets and symbols hidden within the world of Lies of P.						</div></div>]]></description>
+		</item>
+		<item>
+			<title>Dune: Spice Wars</title>
+			<link>https://store.steampowered.com/app/1605220/Dune_Spice_Wars/?snr=1_239_new__145</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1605220/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/1605220/extras/titre1_v2_english.png?t=1694791496"><br/><br/><strong>This is your desert, your Dune.</strong><br/><br/>Lead your faction and battle for control and dominance over the harsh desert planet of Arrakis. Spice is the most valuable resource in the universe. The spice extends life, expands consciousness, and makes interstellar travel possible. Found only on Arrakis, it is sought by the most influential forces in the Imperium…<br/><br/>Scan the landscape for wormsign or risk losing your troops and spice harvesters to colossal sandworms who will burst through the dunes to devour them whole. Crush your opponents in combat, best them through political intrigue, and undermine them with your network of illusive spies.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1605220/extras/GIF_INTRO3.gif?t=1694791496"><br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1605220/extras/titre2_v2_english.png?t=1694791496"><br/><br/>Experience the unique Dune universe, one of the most influential sci-fi settings ever created. Lead your faction to victory with iconic characters, such as Duke Leto Atreides, the Baron Vladimir Harkonnen, the Padishah Emperor Shaddam IV, Esmar Tuek, and Liet Kynes. Stay alert as opposing factions seek to gain the upper hand and the planet itself threatens with vast deserts, huge storms, and the dreaded sandworms.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1605220/extras/gif2_alt_v2.gif?t=1694791496"><br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1605220/extras/titre3_v2_english.png?t=1694791496"><br/><br/><strong>4X in real time.</strong><br/><br/>Balance open warfare, subterfuge, political influence, and economic supremacy to prevail and gain control over the most important planet in the universe. Use secretive agents to sabotage the plans of your opponents. Vote on political resolutions in the Landsraad to further your strategy. Or dominate your opponents by overwhelming them with an all out assault.<br/><br/>Explore Arrakis with ornithopters to discover resources, villages, and points of interest. Expand with your troops to take control of regions. Exploit the resources through buildings and spice harvesters to dominate the economy. Deploy your spaceships and aircrafts to exterminate your enemies but beware as outright aggression can have high political repercussions.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1605220/extras/gif2_v9.gif?t=1694791496"><br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1605220/extras/titre4_v2_english.png?t=1694791496"><br/><br/>Embark on a strategic journey where you can choose the path of honor and politics or embrace violence and deceit. Choose from various factions with unique abilities and playstyles. Each faction can be customized by selecting councilors who enhance their strengths and mitigate weaknesses.<br/><br/>Whether you choose survival tactics, shady dealings, military might, or dominating the spice trade, there is a faction and councilor combination for every player's preference. Explore the possibilities and shape your own destiny on Arrakis.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1605220/extras/gif4_v3.gif?t=1694791496"><br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1605220/extras/titre5_v2_english.png?t=1694791496"><br/><br/><strong>Conquest mode.</strong><br/><br/>Take control of one of the major houses and fight through a number of unique scenarios and situations. Personalize your starting house with a variety of perks and upgrades to tackle the many challenging objectives of the Conquest mode, ensuring you a unique experience every time you play.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1605220/extras/gif5_v3.gif?t=1694791496"><br/><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1605220/extras/titre6_v2_english.png?t=1694791496"><br/><br/>Band together in 2v2 matches or face each other in a free-for-all of up to four players. Tailor the parameters of your multiplayer match to your preferences, including AI difficulty, map size, victory conditions, sandworm aggression, storms, and number of Sietches. Team up and try different faction combinations to identify synergies and dominate Arrakis.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/1605220/extras/GIF_planet.gif?t=1694791496"> </img></img></img></img></img></img></img></img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Zombie Killing Simulator</title>
+			<link>
+				https://store.steampowered.com/app/872350/Zombie_Killing_Simulator/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/872350/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Kill zombies in dozens of different game modes! It can even be in space or roman colosseum. Or design your own levels in the game editor! The only important thing in this game, killing zombies is very satisfying!<h2 class="bb_tag">Gameplay</h2>Zombie Killing Simulator is a action/simulation game. This game has a different gameplay for each game mode.<h2 class="bb_tag">Game Modes</h2><ul class="bb_ul"><li>Waves<br/></li><li>Tower Defense<br/></li><li>Top Down Shooter<br/></li><li>Free Mode<br/></li><li>Zombie Hunt<br/></li><li>Chaos Mode<br/></li><li>Funny Minigames</li></ul><h2 class="bb_tag">Features</h2><ul class="bb_ul"><li>Different weapons, gameplays, models, goals and maps for each level.<br/></li><li>Level Editor (Save your level and share with Steam Community!)<br/></li><li>Lifetime new game mode updates<br/></li><li>Highly optimized and detailed gameplay<br/></li><li>In-game self-improvement system<br/></li><li>Steam achievements<br/></li><li>Customization settings<br/></li><li>Impressive Graphics and Physics</li></ul> </div></div>]]></description>
+		</item>
+		<item>
+			<title>Seven Little Spider Kittens</title>
+			<link>
+				https://store.steampowered.com/app/2685780/Seven_Little_Spider_Kittens/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2685780/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Prepare to be whisked away on a mesmerizing journey into the immersive realm of... Seven Little Spider Kittens? Sure, why not! <br>
+A fairly alright VR platformer action shooter that introduces the Spiderkittens, and Spidermom! for the first time in the history of mankind, blending feline agility(possibly also rockets) with arachnid prowess in an unprecedented gaming experience.<br>
+<br>
+Seven Little Spider Kittens' isn't just a game—it's an unforgettable adventure that pushes your nausea tolerance to the limit! (This may or may not be true)<br>
+<br>
+It's a lovely day to lose your children, so go find your seven little spider kittens and bring them home in this relaxing hybrid VR platformer/shooter/eater						</br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>SKD</title>
+			<link>https://store.steampowered.com/app/885530/SKD/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/885530/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							SKD is an unusual 2d-soulslike: you got your tough enemies, epîc bosses, heal charges and all that.. But instead of a typical ruined world, live the adventure of a band of teens around the lively Skyark city!<br/>(Fully Voiced)<br/><br/>You're gonna get your ass kicked kid, but there'll be plenty of help along the way:<br/><ul class="bb_ul"><li><strong>CHOOSE YOUR CHARACTER</strong><br/>(3 starters: dragon Warrior / libromancy Mage / Fast shapeshifter)<br/></li><li>Level up your unique <strong>SKILL TREE</strong> and attributes build (retrain to adapt anytime)<br/></li><li>Drop and <strong>EQUIPMENT</strong> loot and (funny) materials to upgrade it<br/></li><li>Make up your favorite team of <strong>ASSISTS</strong> (Marvel vs Capcom style)<br/></li><li><strong>IDENTIFY</strong> any enemy to learn more about them (Metroid Prime scanner) </li></ul><br/>Made by one guy, features various music composers!<br/>..the game has also been described as "funny" by some people, however <u>I strongly disagree</u> </div></div>]]></description>
+		</item>
+		<item>
+			<title>Electoral Dynasty</title>
+			<link>
+				https://store.steampowered.com/app/2542840/Electoral_Dynasty/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2542840/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Become the Prime Minister of one of many nations, each with its own strengths and weaknesses. You must keep your job by balancing the agenda of the various parties forming your coalition while also ensuring that your country stays healthy through various decisions. Will you pursue free market capitalism, install a planned economy with workers at the forefront, or strike a balance between the two? Will you form a brutal police state or pursue individual freedoms for all your citizens? The choice is yours...<br/><br/>By approving or vetoing Bills and Executive Orders from all sects of the political spectrum, you must ensure that values intrinsic to national health, such as the strength of the military and the quality of education, maintain balanced. You also need to make sure that you're doing enough to make the people want to keep <i>your</i> party in power.<br/><br/>Features:<br/>- Over 200 Bills, Executive Orders, and Events, making each play through experience distinct<br/>- 7 political parties to choose from, falling on all points of the political spectrum<br/>- 4 nations with distinct advantages and disadvantages						</div></div>]]></description>
+		</item>
+		<item>
+			<title>Deep Blue Odyssey</title>
+			<link>
+				https://store.steampowered.com/app/2373920/Deep_Blue_Odyssey/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2373920/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Deep Blue Odyssey is a thrilling submarine running game that will test your reflexes and challenge your strategic thinking. As the captain of a state-of-the-art submersible vessel, you will need to navigate through treacherous waters, avoiding torpedoes and sea mines, while making sure you keep your vessel afloat. With simple one-touch controls, you can either ascend or descend in the water, but you must be careful not to drop too low or rise too high, or risk colliding with obstacles.<br>
+<br>
+As you progress through the game, you will encounter various challenges, such as navigating through narrow channels, avoiding underwater obstacles, and outmaneuvering enemy submarines. <br>
+<br>
+Deep Blue Odyssey features stunning graphics and realistic sound effects that immerse you in the underwater world. With multiple levels of difficulty, you can challenge yourself to beat your previous high scores and unlock new achievements. So dive into the deep blue sea and embark on an unforgettable adventure in Deep Blue Odyssey!						</br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>Steel Thunder</title>
+			<link>
+				https://store.steampowered.com/app/2372300/Steel_Thunder/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2372300/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Steel Thunder is an action-packed runner where you play as a knight and race through a castle while jumping and dodging obstacles to collect coins. The game is an exciting adventure that requires quick reflexes and strategic thinking to conquer each level.<br>
+<br>
+As a knight, you must jump over walls with agility and agility, avoiding deadly traps<br>
+<br>
+The game's stunning graphics and fast-paced gameplay make Steel Thunder an unforgettable experience. Difficulty increases as time progresses, providing a challenge to keep you on your toes.<br>
+<br>
+Get ready to jump, dodge and collect coins in Steel Thunder, the ultimate runner that will keep you entertained for hours.						</br></br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>Chain Ninja</title>
+			<link>
+				https://store.steampowered.com/app/2370020/Chain_Ninja/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2370020/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Chain Ninja is an exciting action-adventure game designed and developed by an experienced game development team. In the game, players need to play a chain ninja, traverse the entire room by hanging ropes in the air, obtain keys, and avoid various obstacles and traps in the level.<br>
+<br>
+Chain Ninja's gameplay is very simple, yet challenging. At the beginning of the game, the player will be placed in a room. Players need to use ropes to hang in the air and move their positions by swinging the ropes. As the game progresses, the difficulty of the level gradually increases. Players need faster reactions and more precise controls to avoid various obstacles and traps. For example, in some levels, players need to pay attention to the time and the opening of organs, or use ropes to fix themselves on the wall to avoid traps on the ground.<br>
+<br>
+In addition to avoiding obstacles and traps, players also need to find clues in the level.<br>
+<br>
+The operation of the game is very simple and intuitive. Players only need to use the virtual buttons or gestures on the screen to control the movement and climbing of the character. The game has beautiful graphics and realistic sound effects, creating a real gaming experience.<br/>
+<br/>
+Chain Ninja is a very fun and challenging game for players of all ages. Come and challenge your limits and become a real chain ninja!						</br></br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>Eternal Roadster</title>
+			<link>
+				https://store.steampowered.com/app/2372760/Eternal_Roadster/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2372760/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Eternal Roadsteris an exciting and challenging game that will test your driving skills and reflexes. In this game, you'll be controlling a high-speed race car as it speeds down a never-ending road, constantly changing direction to avoid falling off and failing the game.<br>
+<br>
+The game is easy to pick up, but difficult to master. To control your car, you simply need to swipe left or right on the screen to change lanes. <br>
+<br>
+As you race down the road, you'll also collect gold coins that you can use to unlock new vehicles. Each car has its own unique stats, such as speed and handling, so you'll need to choose wisely to find the one that best fits your playstyle.<br>
+<br>
+In addition to the main game mode, Eternal Roadster also offers a range of challenge modes that will put your driving skills to the test. These challenges range from time trials to obstacle courses, and will keep you coming back for more as you strive to beat your high scores.						</br></br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>Vertex Rush</title>
+			<link>
+				https://store.steampowered.com/app/2367150/Vertex_Rush/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2367150/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Vertex Rush - A Fast-Paced Climbing Adventure!<br>
+<br>
+Get ready for an adrenaline-pumping climbing adventure with Vertex Rush! In this addictive game, you'll need to guide your character up a tower while collecting diamonds along the way. But be warned - the blocks below disappear quickly, and one wrong move could send you plummeting to your doom!<br>
+<br>
+To play, simply use the left and right arrow keys to climb up the tower. The faster you climb, the more points you'll earn - but be careful not to move too quickly and miss the diamonds. Each diamond you collect adds to your score<br>
+<br>
+With its simple yet challenging gameplay, Vertex Rush is the perfect game for anyone who loves a good challenge. So what are you waiting for? Download Vertex Rush now and start your climb to the top!<br/>
+<br/>
+Features:<br/>
+<br/>
+Fast-paced climbing gameplay<br/>
+Collect diamonds for extra points<br/>
+Avoid disappearing blocks to stay alive<br/>
+Simple controls make it easy to play, but difficult to master						</br></br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>Cowpocalypse</title>
+			<link>
+				https://store.steampowered.com/app/2648600/Cowpocalypse/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2648600/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							You have been sent to Earth to abduct cows for reasons beyond human comprehension. Abduct cows to increase your score but beware of angry farmers! They don't appreciate you taking their cattle...						</div></div>]]></description>
+		</item>
+		<item>
+			<title>Joker Show - Horror Escape</title>
+			<link>
+				https://store.steampowered.com/app/2467790/Joker_Show__Horror_Escape/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2467790/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Joker Show - Horror Escape - 3D FPS Hide&amp;Seek Game<br/><br/>Your parents left for the night, and you stayed at home alone, you were bored and you decided to call the Jester (Joker), but something went wrong...<br/>It looks like you succeeded, now the jester wants to play with you, hide and don't let him catch you, find a way to call the jester away.<br/><br/><strong>Description of the gameplay:</strong><br/>You play as a teenager who is left alone at home and decides to try summoning spirits.<br/>Your task is to first find the necessary items for the ceremony, and follow the instructions to call the jester (joker).<br/>When you call the jester, he will trap you and lock you in the basement, try to find a way out and escape before the clock strikes 12, because at 12 o'clock at night, the jester will start a show where you will be the main participant!<br/>You have 5 hours to escape, or find a way to get rid of the jester, hide, run away, solve puzzles to find a way to escape.<br/><br/><br/><strong>Features:</strong><br/><ul class="bb_ul"><li>Atmospheric graphics<br/></li><li>Interesting puzzles<br/></li><li>Excellent optimization</li></ul> </div></div>]]></description>
+		</item>
+		<item>
+			<title>Obby</title>
+			<link>https://store.steampowered.com/app/2521100/Obby/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2521100/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<strong>Run</strong>, <strong>jump</strong>, <strong>puzzle</strong>. The tasks you have to master in Obby with Kitty.<br/><br/>Obby is a combination of obstacle and jumping puzzle. The goal is to find the right path and, above all, to master it. Kitty has to make it through different levels. Sometimes you are above the clouds, sometimes in a dark dungeon or trying to cross a lake.<br/>Jumping from stone to stone may sound easy, but if these stones move or are barely bigger than you, the whole thing becomes much more difficult.<br/>If one or two puzzles are added or precise timing is required, the level of difficulty increases enormously.<br/>At the beginning it might be enough for you to reach the end of a level with a lot of targeted jumps and some timing, if necessary with a little help.<br/>But if you want to collect all the stars or even be among the first in the leaderboard, every jump has to be perfect and your timing must always be right.<br/>It sounds difficult, and it is. But who doesn't love a challenge?<br/><br/>- Master tricky jumps<br/>- Balance over narrow bridges<br/>- Avoid nasty traps<br/>- Solve puzzles<br/>- Find the right timing<br/><br/>- 21 story levels<br/>- 15 story levels in particularly difficult mode including a leaderboard<br/>- 2 extra levels with 2 special modes<br/>- Play as Kitty or one of her friends (friends only available outside of the story)						</div></div>]]></description>
+		</item>
+		<item>
+			<title>Pizza Delivery [zebaxx]</title>
+			<link>
+				https://store.steampowered.com/app/2683610/Pizza_Delivery_zebaxx/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2683610/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<strong>Pizza Delivery is a short indie psychological horror game about a fictional story.</strong><br/><br/>This is the second game in the video game saga [zebaxx]<br/><br/><i><u> <strong>"Pizza Delivery"</strong> </u></i><br/><br/>You are a young Spanish woman who has just moved to the outskirts of Venice, and has just found a job in a newly opened pizzeria...<br/><br/><strong><i><u>Game features</u></i></strong><br/><br/>Old VHS movie aesthetic.<br/><br/>Dialogues with other NPCs.<br/><br/><strong><i><u>Gameplay</u></i></strong><br/><br/>"<strong>Pizza Delivery</strong>" is a walking simulator with dialogues between the character and npc.						</div></div>]]></description>
+		</item>
+		<item>
+			<title>Astrominer</title>
+			<link>
+				https://store.steampowered.com/app/2437660/Astrominer/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2437660/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Embark on a thrilling space odyssey in AstroMiner! Take control of a brave robot, stranded in an asteroid belt after a crash landing. Your mission: build a base to find your way back home. Craft items, overcome enemies, and establish communication with Earth. Explore the wonders of the asteroid belt, uncover secrets, and construct a space ship to return. Prepare for an out-of-this-world adventure filled with challenges, discovery, and triumph. AstroMiner awaits, offering an immersive journey where your ingenuity and determination will pave the path back to Earth.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2437660/extras/SteamHeaderExploration.png?t=1700927192"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2437660/extras/explore.gif?t=1700927192"><br/>Asteroid belts are built with procedural generation to create a new world each time you play!  Multiple biome types provide their own advantages.. from Lava, to Gold, to Stone - you'll need to explore the asteroid belt to get the materials needed to get home.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2437660/extras/SteamHeaderCrafting.png?t=1700927192"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2437660/extras/craft.gif?t=1700927192"><br/>Craft different types of structures to help get you home.  Chests and Forge open up different crafting options.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2437660/extras/SteamHeaderBaseBuilding.png?t=1700927192"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2437660/extras/baseBuilding.gif?t=1700927192"><br/>Turrets, Doors, Elevators, Pipes, and Buckets, are just some of the things available for you to make!<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2437660/extras/SteamHeaderInteriors.png?t=1700927192"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2437660/extras/flyStructure.gif?t=1700927192"><br/>You're not restricted to your robot in AstroMiner.  Get out and explore on foot, build tunnels that only you can fit through, and fly buildings to move them around!<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2437660/extras/SteamHeaderGoHome.png?t=1700927192"><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2437660/extras/buildRocket.gif?t=1700927192"><br/>Once you have enough materials, it's time to go home.  Complete all the minigames to deploy Antennas, establish communications with Earth, align your rocket, and fly home!						</img></img></img></img></img></img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Mad Jyacer</title>
+			<link>
+				https://store.steampowered.com/app/2690780/Mad_Jyacer/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2690780/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							The game is a third-person action game. The family decided to go on a diet and bought a juicer. <br/>You control the fruit and try to get to the juicer. You will be hindered by Various junk food. <br/><br/><strong>Features:</strong><br/>1) <u>Three</u> companies - one per character.<br/>2)<u>Three </u>modes for a record with one life.<br/>3) Procedurally generated levels.<br/>4)Music selection in the level.						</div></div>]]></description>
+		</item>
+		<item>
+			<title>Legend of Egypt - Jewels of the Gods</title>
+			<link>
+				https://store.steampowered.com/app/2688930/Legend_of_Egypt__Jewels_of_the_Gods/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2688930/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Thabit mercilessly rules his kingdom in the land of Egypt, until one day he is struck by a heavy blow of fate.<br>
+The gods Isis and Osiris take pity on the young pharaoh: by building a magnificent city that offers shelter to many contented inhabitants, Thabit can change his fate.<br>
+<br>
+Return to the world of Ancient Egypt and build a magical city! Earn gold and materials to be able to build houses and temples. <br>
+Collect trophies and bonuses so you can upgrade and beautify all the buildings.<br>
+Harness the four elements of water, earth, wind and fire and put your match-3 skills to work, as you'll soon have formidable powers at your disposal to advance the construction of yourcity and attract many inhabitants!<br>
+<br/>
+   - Enchanting Match-3 game with a captivating story<br/>
+   -  More than 100 exciting levels with many extras<br/>
+   - Earn trophies and complete mini games<br/>
+   -  Construct a glorious city!						</br></br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>Nordland Mahjongg</title>
+			<link>
+				https://store.steampowered.com/app/2689060/Nordland_Mahjongg/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2689060/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							"Nordland Mahjongg" offers many hours of challenging gaming fun for both beginners and passionate Mahjongg players.<br>
+<br>
+Enjoy different, hand-drawn tiles sets that can be coordinated with beautiful backgrounds. <br>
+Motifs from the Northland are available, as well as classic Chinese tiles and much more. <br>
+You can look forward to three different Mahjongg variants, selectable perspectives of the tile display and many different Mahjongg boards. <br>
+<br>
+The program is also ideal for bridging short breaks in an entertaining way.<br/>
+<br/>
+  - 3 different Mahjong game variants <br/>
+  - Beautiful stone inserts and backgrounds<br/>
+  - Many different mahjongg boards and adjustment possibilities <br/>
+  - Choice of perspective and zoom<br/>
+  - Hours of challenging entertainment						</br></br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>Jewel Legends: Tree of Life</title>
+			<link>
+				https://store.steampowered.com/app/2672350/Jewel_Legends_Tree_of_Life/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2672350/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							The Hods, magical beings and pure of heart, once lived in harmony with the holy Tree of Life. But the endless greed of a dark demon forced the Hods into hiding. Now, new hope springs eternal. Rebuild the world of the Hods in this Match 3 Adventure Game and restore the Tree of Life to its old strength!<br>
+Collect resources and build marvelous structures such as Bath House Blubberpot, the Mushroom Farm and the Fountain of Wonder. <br>
+<br>
+•	3 game modes: Adventure, Tournament, Freeplay<br>
+•	Challenging Mini Games<br>
+•	Build a huge village for the Hods<br>
+•	Many bonus tools and Power Ups<br/>
+•	100 exciting levels<br/>
+•	Earn Achievements<br/>
+•	Unique soundtrack						</br></br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>Big D Randy</title>
+			<link>
+				https://store.steampowered.com/app/2679610/Big_D_Randy/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2679610/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Randy's is a HUGE mf whit big D. In the dark and whimsical world of Halloween, you play as a lil Bro character who must navigate a sprawling, nightmarish map in search of the precious candies scattered the map. But beware, for lurking in the shadows is that MF known as Big D.. Randy. He is really fast , and strong. He will chase when you cross he's view. The game give you funny and in the same time scary moments. Its fun to play and test your self in Big D Randy world.<br>
+-----------------------------------------------------------------------------------------------------------------------------------<br>
+<br>
+MULTIPLAYER AVAILBE .<br>
+Escape - Soon<br>
+<br>
+================================================<br/>
+Inspiration and Music : DigBar <br/>
+ig- itsdigbar<br/>
+Youtube- ItsDigBar<br/>
+Spotify - DigBar<br/>
+TT - itsdigbar<br/>
+================================================<br/>
+Game Developer : HYDR0 <br/>
+Ig - hydr0_6<br/>
+Youtube - HYDROpinia<br/>
+TT - Hydr0_6<br/>
+<br/>
+================================================<br/>
+Game made in UE5<br/>
+<br/>
+Hope yall like it :)						</br></br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>CyVenge</title>
+			<link>
+				https://store.steampowered.com/app/2643090/CyVenge/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2643090/header_alt_assets_3.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Welcome to the intergalactic battleground! Immerse yourself in a sci-fi setting where waves of relentless robots, known as Xul'Gorgs, threaten the galaxy. As a member of the Intergalactic Peacemaker, your mission is clear: survive endless waves, defeat mini-bosses, confront the ultimate end boss, and emerge victorious.<br/><br/><strong>Arena Shooter Dynamics:</strong><br/>Engage in fast-paced, adrenaline-fueled combat as you navigate through different arenas, facing the hordes of Xul'Gorgs. The gameplay is centered around defeating enemies with epic guns and helpful abilities. Gain strength through failure and return stronger on your next run to defeat the endboss.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2643090/extras/CyVenge_GameplayGIF.gif?t=1700896862"><br/><br/><strong>Protagonist - Cy:</strong><br/>Take control of Cy, a skilled operative from the Intergalactic Peacemaker. Customize Cy's loadout by choosing from a wide array of weapons and abilities, each offering unique advantages to suit your preferred playstyle.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2643090/extras/Cy_Running_GIF.gif?t=1700896862"><br/><br/><strong>Randomized Items:</strong><br/>Keep each playthrough fresh and unpredictable with a pool of 60 different items. Adapt your strategy on the fly by randomly acquiring items during your journey, enhancing your arsenal and augmenting Cy's capabilities.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2643090/extras/CyVenge_Items_GIF.gif?t=1700896862"><br/><br/><strong>Boss Battles:</strong><br/>Confront powerful mini-bosses and a formidable end boss, each presenting unique challenges. Your skills will be put to the test as you progress through increasingly difficult encounters.<br/><br/><strong>Difficulty Settings:</strong><br/>Tailor the experience to your skill level with 6 difficulty tiers. Whether you're a seasoned veteran or a newcomer looking for a challenge, find the right balance to keep the gameplay exciting and rewarding. Furthermore you can in- or decrease specific parts of the game with modificators to gain more or less EXP and Money.<br/><br/><strong>Early Access Focus:</strong><br/>In Early Access, we aim to refine and expand upon these core mechanics based on player feedback. Your insights will play a pivotal role in shaping the future of this rogue-lite arena shooter, ensuring an engaging and ever-evolving experience for all players. Join us in the battle against the Xul'Gorgs and help us make this intergalactic adventure truly unforgettable!						</img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>i am a fish Online</title>
+			<link>
+				https://store.steampowered.com/app/2654800/i_am_a_fish_Online/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2654800/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/2654800/extras/bh.png?t=1700888757"><br/><br/><strong>Protect the ocean and love nature. </strong><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2654800/extras/xxy.png?t=1700888757"><br/>"If you are a person who likes a casual, simple and cute game atmosphere, chatting, collecting, unlocking achievements, and loving nature, then you can give yourself a chance to become a fish, and the fish school welcomes you."<br/>This is a multiplayer online RPG simulation survival game. Thank you for supporting independent games. I hope the game can bring you a little happiness and joy. Thank you Fish, you are a fish. You need to eat food, stay happy, and sleep. , there are beautiful music and wonderful scenes here, you are a little fish. Start your adventure with a fish egg. You can become a fish hero and mermaid. Sharks, crocodiles, various characters, collect various fish and fish hero characters, collect various weapons, various exquisite backpack styles, small fish can be upgraded and evolved, and finally you can get the fish species and mermaid you want. The adventure is divided into several maps and a home. The game has a huge map, and the adventure map also contains many dangers. Some humans will capture you and put you in a fish tank, some UFOs will capture you for study, some birds will take you away and fly into the sky, there will be human harpoons that will catch you and dry you out, Let you turn into a dried fish, a big fish will eat you, and you will also enter the belly of the fish. You can even chat in the belly of the big fish. There are many interesting random events in the huge map world waiting for you to explore. After we return home from our adventure, we can socialize and chat, take a shower, sleep, and recover. We can also go on adventures together to get treasure rewards. Once we have good weapons, we can play team copies together. We can trade treasure dropped by dungeon bosses at home. There are also many grocery items available for sale and trade. The game has a wide variety of weapons and a very interesting backpack. Items and weapons are divided into: green, blue, purple, orange, various levels. When you feel tired from taking risks, you can go home to chat, socialize and make friends, and share your own growth. I hope you will gain something in this world, make new friends, and expand your own adventure stories. Schools of fish are waiting for your arrival.<br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2654800/extras/ll501.png?t=1700888757"><br/><i><strong> Author's Quotes: We pay tribute to and miss "Bullfrog Game Studio". Their games have always deeply influenced us. We will work hard to move forward. Thank you very much. ^_^ </strong></i><br/><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2654800/extras/xxy2.png?t=1700888757"><br/>Game features:<br/>* Love environmental protection.<br/>* More than 90 kinds of fish and 20 heroic characters waiting to be unlocked.<br/>* 70 achievements to unlock.<br/>* Set up stalls to trade items.<br/>* Fish news announcer (artificial online NPC) GM broadcasts fish news online.<br/>* Collect various backpack styles, groceries, and weapons of different qualities.<br/>* Simple collection of style and humor.<br/>* Various achievements.<br/>* Like all kinds of fish and various characters.<br/>* Fish schools attack the Boss together to get rewards.<br/>* In a daze among the fish.<br/>* Online chatting, socializing and making friends, multiplayer online games.<br/>*Hide in the corner and watch various players swimming around in schools.<br/>* The game is simple, relaxing and cheerful, and the game operation is simple WADS JKL + mouse click.<br/>* role play.<br/><br/><strong> Warm reminder: The Asian servers are currently smooth. You are willing to pay the price of a cup of milk tea to support our independent games. Thank you for supporting us. We will continue to work hard to create, care for life, and protect nature. Welcome to the fish school. ^_^ Thanks Thanks. </strong><br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2654800/extras/gg.png?t=1700888757"><br/><br/>Part of the Fun Player Own Stall Grocery Display<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2654800/extras/ttw.png?t=1700888757"><br/>Some interesting fish displays<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2654800/extras/jj2.jpg?t=1700888757"><br/>Display of some heroic characters<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2654800/extras/yyy1.png?t=1700888757"> </img></img></img></img></img></img></img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>Coffee Brakes</title>
+			<link>
+				https://store.steampowered.com/app/2463820/Coffee_Brakes/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2463820/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Have a blast jousting up to four of your fellow players in this goofy party game! <br>
+<br>
+THE BATTLE<br>
+Hop on a chair and battle your friends in a variety of unique levels. Wind up your joust and then slam into your friends, jousting them off of their chairs taking them down!<br>
+<br>
+GAME MODES<br>
+When you're not too focused on slamming into your fellow colleague, play through different game modes such as King of The Hill &amp; Hot Potato where you change up the rules of winning to enjoy a spicy variety of gameplay!<br>
+<br/>
+COUCH &amp; ONLINE PLAY<br/>
+Perfect for a party session or a relax at home with friends with Local Multiplayer and Online Support!<br/>
+<br/>
+DEATHLY OFFICE IMPLEMENTS<br/>
+Grab fun items that have a variety of deadly consequences for your fellow co-worker<br/>
+<br/>
+RISING TO THE TOP<br/>
+Play around in 6 different fun levels as you slowly rise through the office building, fighting your companions as you go<br/>
+<br/>
+OFFICE ATTIRE<br/>
+Customize your appearance in the office lobby wardrobe with silly little hats, colors and different weapons before the round begins!						</br></br></br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>Retro Commander</title>
+			<link>
+				https://store.steampowered.com/app/338820/Retro_Commander/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/338820/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/338820/extras/icon_and_text_v05_-_600x195px.png?t=1700862195"><br/>Retro Commander is a <strong>post-apocalyptic</strong> real-time strategy wargame (RTS). Take command and fight it out in a world where a cataclysmic timeline has transpired on Mother Earth. Wage wars solo, against the AI, or take on your gaming comrades and friends in cross-platform multiplayer matches. Form teams and clans and fight co-op style with the AI and other players for ultimate victory.<br/><br/>As opposed to other real-time strategy game, Retro Commander tries to focus on both, a fun <strong>single player</strong> and a thrilling <strong>multiplayer</strong> experience. The game strives to be easy to learn with a modern user interface. Single player comes with skirmish matches against the AI as well as a comic-based <strong>story campaign</strong>. Multiplayer can be played cross-platform and includes a ranking and rating system.<br/><br/><ul class="bb_ul"><li><u>Post-Apocalyptic</u>: Real-time strategy (RTS) played in a post-apocalyptic timeline on Mother Earth. The environment includes day-night cycles, rain, snow, wind and solar flare activity.<br/></li><li><u>Story Campaign</u>: Deep campaign and story line of humanity after a cataclysmic event. Factions come with their own specialized <strong>technologies</strong> such as stealth, robots, drones or shields.<br/></li><li><u>Single &amp; Multiplayer</u>: A challenging AI for both single and multiplayer matches with co-op play. Cross-platform multiplayer including <strong>LAN</strong>/internet. ONLINE play comes with an award and rating system.<br/></li><li><u>Play Modes</u>: In addition to regular skirmish matches, the game supports missions such as elimination, survival, <strong>capture the flag</strong>, defense and <strong>battle royale</strong>. Available in both single and multiplayer also are escort and rescue missions.<br/></li><li><u>Structures &amp; Troops</u>: Common troops for land, sea and air warfare is available to all factions. Specialized elements such as stealth, shields, <strong>EMP</strong> weapons, nukes, <strong>portals</strong>, orbital weapons, assimilator and other troops and structures provide for additional variety.<br/></li><li><u>Research</u>: A <strong>tech tree</strong> and research options enable to build specialized structures and troops. A <strong>Tech Snatcher</strong> can be used to steal enemy technology.<br/></li><li><u>Modding</u>: A map editor is included allowing for player-modded maps including player-modded campaigns. All elements including troops, structures, as well as graphics and sound effects, can be modded if desired.</li></ul><br/>Although some troops are shared, the game is trying not to be a generic RTS-games. There are <strong>faction-specific technologies</strong> each with their strengths and weaknesses.<br/><br/><ul class="bb_ul"><li><u>GRA Technology</u>: gives access to <strong>stealth</strong> and cloaking. Included are cloaked agents and spies as well as bombers with EMP and nuclear weapons. Available also are snipers and heavy airlifts. Can build uranium fabricators.<br/></li><li><u>ELC Technology</u>: provides <strong>robots</strong>, <strong>airships</strong> and robo dogs. Available also are a mechanic and heavy airlift. Can build stationary EMP-field generators.<br/></li><li><u>IDB Technology</u>: provides <strong>hovertanks</strong>, <strong>drones</strong> including EMP-field drones and drones equipped with napalm weapons. Can build fusion generators for power.<br/></li><li><u>Mayan Technology</u>: consists of <strong>decoy</strong> capabilities. Included are hologram tanks, transformers, dogs and dolphins. Can build <strong>portals</strong>.<br/></li><li><u>Ancient Technology</u>: provides <strong>shields</strong>, EMP soldiers, assimilators and napalm tanks. Can build matter fabricators.</li></ul><br/><strong>Free vs Paid (DLC or in-game)</strong>: The free version includes unlimited access to over 12+ multiplayer scenarios and Chapter 01 of the single player campaign. Purchasing the DLC <strong>"All Maps &amp; Modding"</strong> grants full access to the game. It includes everything for single player including the story campaign, skirmishing against the AI, ONLINE multiplayer or LAN-play with friends and family.<br/><br/><strong>No DRM</strong>: There is no DRM in the game. You <strong>don't need to connected to the internet</strong> to play single player games or the campaign. You don't need to be logged in to play LAN games either. You don't need to login either for WAN games (locally hosted games over the internet), but you will have to work out your router settings and do the appropriate port-forwarding so your friends can connect from remote.						</img></div></div>]]></description>
+		</item>
+		<item>
+			<title>NBody Gravitation</title>
+			<link>
+				https://store.steampowered.com/app/2674040/NBody_Gravitation/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2674040/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Click and drag to place asteroids, planets, and stars, then send them flying into the matching targets in a physics-based puzzle game where everything attracts everything. The levels start simple, but ramp up to include several moving parts and tricky solutions. You'll need to plan your placements carefully in order to win!<h2 class="bb_tag">Featuring:</h2>80 hand-crafted levels to master<br/><br/><br/>An N-body gravity system where everything can move if something near it is heavy enough, or if something crashes into it. These puzzles are firmly grounded in real orbital mechanics!<br/>(Aside from the targets. They don't move.)<h2 class="bb_tag">Unique types of matter for unique puzzles:</h2>Antimatter: Crash a normal object into it to launch it away and shave off some mass. Or avoid doing that if you need to keep something onscreen.<br/><br/><br/>Exotic matter: It has negative mass, which means it pushes things away instead of attracting them. It's still attracted to normal matter, though.						</div></div>]]></description>
+		</item>
+		<item>
+			<title>Spooky Spins Returns : Crazy Cash Edition - Slots</title>
+			<link>
+				https://store.steampowered.com/app/2671990/Spooky_Spins_Returns__Crazy_Cash_Edition__Slots/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2671990/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Spooky Spins Returns : Crazy Cash Edition is a 5 reel, 25 payline slot machine (pokie) with a Horror theme oriented from left to right. - WITH THE SIMILAR LIGHTNING STRIKE FEATURE.<br>
+<br>
+Play this classic remake from the Spooky Spins Series, Now with Crazy Cash Feature.<br>
+Spooky Spins created in 2005 by Pokies4fun has been enjoyed around the globe.<br>
+This new version is our first release with our new Crazy Cash Feature.  <br>
+Grab yourself a drink, sit back, play and enjoy. <br>
+Now also with authentic background ambience recorded from a live venue to create a real atmosphere, just like you are actually at a casino.<br/>
+<br/>
+Free game feature is awarded when 3 or more scatters appear on any line and is awarded 7 free games.<br/>
+During free games any (6) six cash values on screen trigger the Crazy Cash Feature.<br/>
+During play any (6) six or more Spooky ( Symbols ) scattered anywhere on screen start the Crazy Cash Feature.<br/>
+During the Crazy Cash Feature there will be 3 free spins, when an additional spooky value lands on screen it will re-trigger free spins back to 3 <br/>
+until no more spooky's land on screen, win Mini, Minor and Major jackpots when symbols land on screen.<br/>
+<br/>
+To Win Grand Jackpot screen needs to have all 15 reels lite up with a winning value.<br/>
+Scattered during Free spins paid or free cannot be retriggered during play.<br/>
+Spelling S-P-OO-K-Y on any lite line gives 10000 Coins.<br/>
+<br/>
+This is the closest slot machine simulation you can get to the real thing, with features like, Reserve Button and Paytable. <br/>
+Play Pokies4fun Slot Simulations at work or at home without losing a cent, Great Games Great Fun........<br/>
+No real money can be won.<br/>
+For Amusement Only. If you are looking for the best Australian slot machine games, then look no further than Pokies4fun. Pokies4fun is a leading provider of online and offline pokies for fun that are designed to entertain and thrill you. Pokies4fun offers a wide range of slot machine games with different themes, features, and jackpots.<br/>
+Pokies4fun has some of the most popular and classic pokies games. You can also enjoy some of the new and innovative pokies games such as Goofy Golf, Spooky Spins, and more. Pokies4fun games have high-quality graphics, animations, and sound effects that create a realistic and immersive gaming experience. Pokies4fun games also have exciting features such as free spins, bonus games, wilds, scatters, and progressive jackpots that can reward you with huge payouts.<br/>
+Pokies4fun is a trusted and reputable brand that has been providing online pokies for fun since 2005. Pokies4fun games are safe and legal in Australia and other countries where online and Simulated gambling is allowed. Pokies4fun games are for amusement only and no real money can be won. Pokies4fun games are suitable for all types of players, whether you are a beginner or an expert, a low roller or a high roller. Pokies4fun games are fun and easy to play, just click the spin button and see what happens.						</br></br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>Wonderland</title>
+			<link>
+				https://store.steampowered.com/app/2651790/Wonderland/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2651790/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Welcome to Wonderland, a bone-chilling first-person horror game that plunges you into the depths of an old, eerie mansion shrouded in mystery and darkness. Dare to uncover the secrets that lie within its decaying walls and hidden chambers.<br>
+<br>
+Gameplay:<br>
+<br>
+In Wonderland, you step into the shoes of a brave soul determined to explore an abandoned mansion with a sinister past. As you traverse its haunting corridors, you will encounter cryptic puzzles, spine-tingling challenges, and unsolved mysteries that demand your wit and courage to unravel. With each puzzle solved, you inch closer to the heart of the mansion's enigma, but beware – every solved mystery unveils another layer of the mansion's terrifying history.<br>
+<br>
+Features:<br/>
+<br/>
+Immersive First-Person Horror: Experience an immersive first-person perspective that will keep you on the edge of your seat as you navigate the mansion's ominous rooms and eerie hallways.<br/>
+<br/>
+Mind-Bending Puzzles: Engage your intellect to solve a variety of mind-bending puzzles scattered throughout the mansion. Each puzzle you solve brings you closer to the mansion's dark secrets.<br/>
+<br/>
+Atmospheric Exploration: Immerse yourself in the richly detailed and atmospheric environment of the abandoned mansion. Explore every nook and cranny to uncover hidden clues and unravel the mansion's disturbing past.<br/>
+<br/>
+Terrifying Encounters: Be prepared to encounter terrifying entities as you delve deeper into the mansion's mysteries. Use your wits and whatever resources you can find to survive the supernatural threats that lurk in the shadows.<br/>
+<br/>
+Rich Narrative: Piece together the story of the mansion and its former inhabitants through notes, diaries, and other in-game artifacts. Uncover a tale of tragedy, betrayal, and malevolence that will send shivers down your spine.<br/>
+<br/>
+Are you brave enough to face the horrors that await within the walls of Wonderland? Prepare yourself for a chilling adventure where every corner may conceal the next puzzle or a lurking terror. Enter if you dare...<br/>
+<br/>
+Wonderland						</br></br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>Wacky Escape</title>
+			<link>
+				https://store.steampowered.com/app/2644120/Wacky_Escape/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2644120/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Jump yourself on this retro runner game and be hooked on the marvelous trippin' you're in, surf the happy mountains with the sun shining, and listen to the awesome 16-bit music, but don't take it too much, or you can regret it.<br>
+<br>
+But if you are tired to run around your owl tail and you want to see what the real world is, just don't take the 💊. It's up to you.<br>
+<br>
+Try to escape your scary destiny, figure out why you're in this thriller madhouse, and dodge and escape all dangers in this place. Decide if your fate will be trippin' on this endless mad circus or if you will break the asylum lock and escape to safety.<br>
+<br>
+🤪 FEATURES<br>
+<br/>
+☆ Insane retro pixel art<br/>
+☆ Endless run (or not...)<br/>
+☆ Challenging missions<br/>
+☆ 🐰 Rabbits, 🐶 dogs, 🐻 bears, and lots of other animals to love... I mean... dodge						</br></br></br></br></br></br></br></div></div>]]></description>
+		</item>
+		<item>
+			<title>Very Scary Backrooms Game</title>
+			<link>
+				https://store.steampowered.com/app/2666350/Very_Scary_Backrooms_Game/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2666350/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<i>You've seen the backrooms, but not like this.</i><br/><br/>"Very Scary Backrooms Game" really is a backrooms experience like no other. Journey through liminal spaces while evading strange creatures. Who or what will you encounter? Find your way home...<br/><i>if you can...</i><br/><br/>You wake up in an unknown location where everything is familiar, but not quite right. After navigating through this strange space, you will begin to realise that you might not be alone. <br/>You'll hear <i>things</i> running around you. <br/>Inanimate objects will appear to change their positions. Or is it all in your head?<br/>You may even encounter other beings that are reminiscent of parts of yourself, but who knows if they'll help you or hinder you.<br/><br/>Very Scary Backrooms Game features three floors and can be completed in an extremely short amount of time with cunning, practice and healthy dose of luck.<br/><br/><i>"If you are in danger, run and hide."</i><h2 class="bb_tag">How to Play</h2><br/>WASD to move<br/>Mouse to look<br/>Esc for the menu (be sure to adjust your audio and sensitivity)<br/><br/>On each level, look for anything that could be an exit. Whether it be an elevator or a hole in the floor. Your goal is to get out as quickly as possible.						</div></div>]]></description>
+		</item>
+		<item>
+			<title>Shell's Kitchen</title>
+			<link>
+				https://store.steampowered.com/app/2603430/Shells_Kitchen/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2603430/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Dive into a fintastic culinary adventure where fish serve fish dishes to fishes, and scale new heights of seafood fun with your friends in this cooperative cooking game! In this 2-player local co-op game, you play as the two sons of the world renowed chef Gordon Clamsay. In order to inherit the family restaurant, you have to prove your worth! Work together to chop, cook, combine, and serve the correct orders to keep your customers satisfied!<br>
+Shell's Kitchen was made by students in our own custom engine "Catbox" over the course of 9 weeks.						</br></div></div>]]></description>
+		</item>
+		<item>
+			<title>Evil Diary</title>
+			<link>
+				https://store.steampowered.com/app/2563470/Evil_Diary/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2563470/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Enter a post-apocalyptic urban wasteland where your goal is to reach a secure zone, but you have to cut across areas overrun with monsters.<br/><br/>Take on the role of of Eve, a fierce heroine who is determined to survive the horror by any means necessary. Shoot down enemies from afar or slash them up close and clear the way towards freedom. <br/><br/>Featuring 32 intense levels where you can follow the fate of a survivor following his diary writings. Evil Diary will satisfy your urge to slay hordes of grotesque monsters.<br/><br/>Features:<br/><ul class="bb_ul"><li>32 combat levels<br/></li><li>Various enemies types<br/></li><li>Compelling story through on survivor notes<br/></li><li>2 additional character skins to be unlocked	</li></ul> </div></div>]]></description>
+		</item>
+		<item>
+			<title>The Protean Forest</title>
+			<link>
+				https://store.steampowered.com/app/2592710/The_Protean_Forest/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2592710/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							As a force against demons, The Protean Forest can endlessly replicate creatures in the world, but This place has been activated in advance, following heroes into The Protean Forest to participate in this adventure.<br/><br/>This game combines Rogue-Like card game and turn based mechanisms.<br/><br/>Obtain unit or skill cards through victory in battle<br/><br/>Deploy and move unit cards to unleash their unique abilities<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2592710/extras/MoveEng.gif?t=1700842833"><br/><br/>Use skill cards at a reasonable time to gain an advantage<br/><img src="https://cdn.akamai.steamstatic.com/steam/apps/2592710/extras/SkillEng.gif?t=1700842833"><br/><br/>Be cautious in choosing the path: steadily moving forward or choosing a more challenging path to receive better rewards?<br/><br/>Save your Units: The loss of unit cards is permanent, so please minimize the unit loss during battles as much as possible.<br/><br/>Stylized Heroes: Each hero has a completely different mechanism, experiencing different heroes to enjoy different combat styles.						</img></img></div></div>]]></description>
+		</item>
+		<item>
+			<title>BALL PIT KING 3D</title>
+			<link>
+				https://store.steampowered.com/app/2684420/BALL_PIT_KING_3D/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2684420/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<strong>Drop, stack and merge 3D balls with hilarious faces</strong> to create bigger ones and score points. Your goal? <strong>Create the gigantic King Ball</strong> and rule supreme over the Ball Pit!<br/><br/><strong>Two balls of the same type will merge</strong> and create a bigger royal subject. Different types will not combine so be smart about placing the balls or risk being denied passage to the lower levels of the Pit.<br/><br/>How high can you stack the loyal balls? Can you beat your last score? Pick the right spots for the three balls of varying sizes at your disposal and use the <strong>responsive 3D physics</strong> to your advantage.<br/><br/>But <strong>take care stacking the loyal balls</strong> because if they fall out of the Ball Pit, it's Game Over. A King doesn't leave anyone behind!<br/><br/><strong>Friendly Royal Duels</strong>: Challenge your friends by taking a look at the <strong>included Scoreboard</strong> and try to beat their Highscores.<br/><br/>Ball-ieve in yourself: With enough perserverance, strategy and finesse you can create the ultimate King Ball and <strong>claim the title of BALL PIT KING</strong>!						</div></div>]]></description>
+		</item>
+		<item>
+			<title>World Of Blocks</title>
+			<link>
+				https://store.steampowered.com/app/2650110/World_Of_Blocks/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2650110/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Welcome to World Of Blocks, an exciting construction game that offers the freedom to create anything you can imagine.<br/><br/>In this limitless sandbox world, you are in control, equipped with a wide variety of shapes and objects to bring your ideas to life. With World Of Blocks, your imagination knows no bounds. Create magnificent structures, landscapes, and intricate designs using a vast selection of building elements. The only limit is your creativity.<br/><br/>Access a rich library of shapes and objects to build your dream world.<h2 class="bb_tag">Import your own textures into the game with our simplified import system.</h2><br/>World Of Blocks is not just a block-building game, our game offers a library of assets that can be inserted into the game.<br/><br/>Remember that World Of Blocks is still in development, and we will be introducing more content and features in future updates. We invite you to join us on this creative journey, where the sky's the limit, and your imagination is your greatest asset.<br/><br/>Get ready to build and enjoy the ultimate sandbox experience in World Of Blocks!						</div></div>]]></description>
+		</item>
+		<item>
+			<title>True Reporter. Mystery of Mistwood</title>
+			<link>
+				https://store.steampowered.com/app/2682300/True_Reporter_Mystery_of_Mistwood/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2682300/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							Six months have passed since the car accident that led to the mysterious disappearance of Charlie Goodman... <br/><br/>His fiancee Betty Hope, who was with him in the car, is gradually recovering and returning to the beloved work of a famous criminal journalist. Ahead of her is one of the main investigations of her whole life – the search for the groom who disappeared without a trace under mysterious circumstances. She has very few threads on her hands that lead to the solution of this crime (and Betty has no doubt about that), and she has to piece together the full picture and find Charles. <br/><br/>To figure out what is really going on in Mistwood, Betty will have to explore the whole dark side of the once quiet town, catch a lot of people in crimes and get closer to her main goal.<br/><br/>Find answers to all questions by solving all kinds of puzzles and collecting clues in the game "True Reporter. The mystery of Mistwood".<br/><br/><strong>In the game you are expected:</strong><br/><ul class="bb_ul"><li>Dynamic detective story, fascinating from the first minutes of passing;<br/></li><li>Interesting conversations with the residents of the city – it depends on the chosen answer options whether you will find the answers or not;<br/></li><li>Realistic graphics of game locations – a whole city, each corner of which keeps its secrets;<br/></li><li>Various collections and puzzles – the whole set of hidden object entertainment; <br/></li><li>Lots of stylish costumes, both for the main character and for the rest of the characters;<br/></li><li>Various modes of passing locations to search for items; <br/></li><li>It will be interesting for both adults and children; <br/></li><li>The game and all its updates are absolutely free;<br/></li><li>Regular game events in which you need to search and collect unique items.</li></ul><br/><strong>You will definitely like this game:</strong><br/><ul class="bb_ul"><li>If you like games in the genre of "hidden object", solve quests or collect puzzles;<br/></li><li>If detectives, detective games, investigations and mysteries excite your imagination.</li></ul><br/>"True Reporter. The Mistwood mystery" is free cross-platform game for personal computers and phones, which is constantly updated!						</div></div>]]></description>
+		</item>
+		<item>
+			<title>BURGLAR'S BAZAAR</title>
+			<link>
+				https://store.steampowered.com/app/2639690/BURGLARS_BAZAAR/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2639690/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+							"Stay alert as well. Because you never know when the landlord will show up..."<br/><br/><strong>Steal </strong>and <strong>Sell</strong>. That's the whole point.<br/><br/>You have an empty shop on the busy street of the city. It's up to you to make it happen. Sneak into houses without getting caught by landlords, steal items, and start selling them in your own shop.<br/><br/><strong>FEATURES:</strong><br/><br/>-Dozens of stolen items that can be sold in the player's shop.<br/>-Unlock door locks, sneak into houses through windows or balconies.<br/>-Customize your home and shop.<br/>-Buy houses from the real estate agent.<br/>-Use a computer to manage tasks.<br/>-Banks and ATMs.<br/>-Day and night system.<br/>-Various games in the hotel and casino.<br/>-Pick locks with a crowbar.<br/>-Face trial in court when caught.<br/>-Prison cell.<br/>-Exploration with a drone.<br/>-Supply goods from wholesalers for honest sellers (Profit margins are very low or zero).<br/>-Sell valuable jewelry at the jewelry store.<br/>-And many more features...						</div></div>]]></description>
+		</item>
+		<item>
+			<title>On Call</title>
+			<link>
+				https://store.steampowered.com/app/2547180/On_Call/?snr=1_239_new__tab-AllNewReleases</link>
+			<description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steam/apps/2547180/header.jpg" /><br/><div style="text-align: center;"><div class="game_area_description" id="game_area_description">
+<h2>About This Game</h2>
+<strong>About the Game</strong><br/><i>On Call</i> is a visual novel that invites you to work a rotation at Merritt General Hospital to learn about stress management for workers in the healthcare industry.<br/><br/><strong>Key Features</strong><br/>During your rotation at Merritt General Hospital, you’ll encounter a diverse group of patients facing challenging ailments and disorders. Build trust and rapport with them to help them recover from their maladies. Manage your own stress while confronting these challenges or you may just crack under the pressure.<br/><br/><strong>Choice Driven Narrative</strong><br/>Make dialogue choices to influence patient outcomes and manage your stress level as you work through your rotation. Overcome their objections to help your patients make healthy choices to improve their conditions.<br/><br/><strong>Manage Stress</strong><br/>Build trust with your patients and use breaks to manage your stress level effectively. Don't forget to take a moment to decompress every now and then.<br/><br/><strong>Patient Tracking</strong><br/>Utilize patient SOAP notes to track the treatment progress and decisions made for each patient. Remember to check your clipboard regularly to remain informed on each patient.						</div></div>]]></description>
+		</item>
+	</channel>
 </rss>
