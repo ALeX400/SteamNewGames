@@ -24,7 +24,8 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -f docs/index.xml  # Modificat pentru a include fișierul din directorul 'docs'
-          git commit -m "Update RSS Feed" -a
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          git commit -m "Update RSS Feed - $TIMESTAMP" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
